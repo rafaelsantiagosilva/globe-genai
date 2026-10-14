@@ -26,3 +26,12 @@ O projeto consiste na elaboração de um *software web* que permita a visualiza�
 | **RF-04**           | Funcional     | Cada indicador pode conter uma opção de rota que leva à sua posição no Google Maps e à requisição de entrada do ponto de partida, para calculo da trajetória até a instituição participante                                                                |
 | **RF-05**           | Funcional     | O sistema pode permitir que quando um pesquisador participante é selecionado, sejam exibidas informações de contato a que ele(a) esteja de acordo, como e-mail, Linkedin, Instagram e páginas web pessoais.                                                |
 | **RF-06**           | Funcional     | O mapa deveria permitir que o usuário altere o zoom em áreas específicas com o scroll do mouse, ao posicionar o cursor sobre uma zona.                                                                                                                     |
+
+## Legenda do Mapa
+
+- **América Do Norte:** #8e6bbf
+- **América Do Sul:** #7cb342
+- **Europa:** #5b8def
+- **Ásia:** #d9534f
+- **Oceania:** #2fb59a
+- **Antártica:** #cfd8dc
