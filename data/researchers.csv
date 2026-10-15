@@ -1,0 +1,395 @@
+Research Name,researcher_id,institution_id
+Danilo Rodrigues Pereira ,1,1
+Simone Appenzeller,2,1
+André Franceschi de Angelis,3,1
+Thais Rocha,4,1
+Danielle F. dos Santos Dias,5,1
+Cristiano Torezzan ,6,1
+Leonardo Tomazeli Duarte,7,1
+Felipe de Paula Souza,8,2
+Amaury Bosso André,9,3
+Arthur Fernando Arnold Battaglia,10,3
+Denilson da Silva Bezerra,11,4
+Dante Augusto Couto Barone,12,5
+Arthur Silva Araújo,13,5
+Raquel Salcedo Gomes,14,5
+Roberto Pereira do Nascimento,15,5
+Alberto Bastos do Canto Filho ,16,5
+Daniel Cruz Cavalieri,17,6
+Danilo Bezerra Vieira,18,7
+Rahul Bhandari,19,8
+Reet Mansharamani,20,8
+Sumendra Yogarayan,21,9
+Lahveenya Panchalingam,22,9
+Noorminshah A. Iahad,23,10
+Vijiaprabu Manikam,24,11
+Sarin Sok,25,12
+Rany Sam,26,13
+Kubota Kazumi,27,14
+Iwashita Yoshiaki,28,14
+Nagayuki Saito,29,15
+Chiaki Hashimoto,30,15
+Yasumasa Yamaguchi ,31,15
+Joemar T. Minoza,32,16
+Thomas Chui Kin Fung ,33,17
+Alex Jingwei He,34,18
+Sira Elena Palazuelos Cagigas,35,19
+José Luis Martín Sánchez,36,19
+Javier Macías Guarasa,37,19
+Mariana Buenestado Fernández,38,20
+Catalina Ribas Segura ,39,21
+Maria Isabel Cerezo Sánchez,40,21
+Alexandra Lizana Carrió,41,21
+Maria Ventura Monserrat ,42,21
+Irene Pradas Barriga,43,21
+Ana Vieira ,44,22
+Bruno Gonçalves,45,23
+Ana Elisa Carreta de Sousa,46,24
+Daniela Marzano ,47,25
+Corina Sirb,48,26
+Iasmina Petrovici,49,26
+Konstantinos Mastrothanasis,50,27
+Ekin Ozer,51,28
+Jennifer Keenahan,52,28
+Nuri Türk,53,29
+Fatma Gizem Karaoglan Yilmaz,54,30
+Alican Kaya,55,31
+Mariana Pinheiro Bento,56,32
+Roberto Medeiros de Souza,57,32
+Nick Baker,58,33
+Dijana Vuković,59,34
+Ruohan Tang,60,35
+Kelum Gamage,61,36
+Paul Rodway,62,37
+Astrid Schepman,63,37
+Tiffany Petricini,64,38
+Jacob Holster,65,38
+Sarah T. Zipf,66,38
+Brian W. Stone,67,39
+Lee Rainie,68,40
+Samuel Utulu,69,41
+Joseph Moyinoluwa Talabi,70,42
+Patience Akpan,71,43
+Inuusah Mahama,72,44
+Lossan Bonde,73,45
+"Dorothy Muthoka
+",74,46
+Ritah Nantale,75,47
+Mahadih Kyambade,76,48
+Afulah Namatovu,77,48
+Alude Mahali,78,49
+Steven Gordon,79,49
+Steve Carlise Warner,80,50
+Notice Pasipamire,81,51
+Josiline Chigwada,82,52
+Rosemary Maturure,83,53
+Oneil N. Madden,84,54
+Stephen Johnson,85,55
+Helena Naitsuwe Amadhila,86,56
+Perien Joniell Boer,87,56
+Juliana Kamaghe,88,57
+Xiaoshu Xu,89,58
+Xiaoshu Xu,90,59
+Arnon Hershkovitz,91,60
+Michal Tabach ,92,60
+Abeer Watted,93,61
+Abeer Watted,94,62
+Angel Deroncele Acosta,95,63
+Osbaldo Turpo Gebera,96,64
+Mónica Moraes,97,65
+Juan Carlos Rojas Vidovic ,98,66
+José Boris Bellido Santa María,99,66
+María Verónica Leiva-Guerrero,100,67
+Alberto Grájeda,101,68
+Fabiola Monje Cueto,102,68
+Luis Camilo Kunst,103,69
+Veronica Alejandra Villarroel Henriquez,104,70
+Diana Carolina Burbano Gonzalez,105,71
+Deixy Ximena Ramos Rivadeneira ,106,72
+Nestor Dario Duque Mendez  ,107,73
+José Fager-Pérez,108,74
+José Alejandro Jaime Vargas,109,75
+Elsy Medina,110,76
+Juan Manzano,111,76
+Nelmarie Mercado,112,76
+Francis Linares,113,76
+Gliyer Marcano,114,76
+Francisco Antonio Ponte Rodriguez,115,76
+Ismael Martinez Bonilla,116,77
+Armando Lozano,117,78
+Laura Trujillo Liñán,118,79
+Guillermina Ávila García,119,80
+Ekaterina Pospelova,120,81
+Airat Satdykov,121,81
+Evgeny Venyov,122,82
+Liudmila V. Daineko,123,83
+Viola A. Larionova,124,83
+Vadim E. Silin ,125,83
+Natalia V. Goncharova,126,83
+Svetlana Evgenievna Shchepotova,127,84
+Gevorg Grigoryan,128,85
+Jane Jingjing Shi,129,86
+Jingtai Li,130,87
+Zuheir N. Khlaif ,131,88
+Mira Jardaneh,132,88
+Mario Hernandez,133,89
+Duke Ofosu-Anim,134,90
+Bongwoo Lee,135,91
+Hunkoog Jho,136,91
+Toufik Azzimani,137,92
+Agariadne Dwinggo Samala,138,93
+Muhammad Arsyad,139,94
+Arina Restian,140,95
+Miguel Enrique Barroso Fontanals,141,96
+Simone Grassini,142,97
+Vivian Aurelia Minnaard,143,98
+Nuwan Gunarathne,144,99
+Amali Henadirage,145,99
+William Oswaldo Flores Lopez,146,100
+Mohammad Alhur,147,101
+Juan Dempere,148,102
+Henrik Dindas,149,103
+Celine Loubiere ,150,104
+Ifeyinwa Maryann Okafor,151,105
+Augustin Nzitakera,152,105
+Gad Rutayisire,153,105
+Ezequias Adolfo Domingas Cassela Barceló,154,106
+Niroj Dahal,155,107
+Luis Eduardo Wexell Machado,156,108
+Michelle Pereira,157,109
+Eduardo Agostinho Dzeco,158,110
+Etelvina Mostinha Razão,159,111
+Luis Muchanga,160,111
+Felicidade Munguambe,161,111
+Fernando Manhica,162,111
+Manuel Joaquim Silva de Oliveira,163,112
+Cormac McGrath,164,113
+Livenson Nicolas,165,114
+Aïshael Donata  Laury  Picard,166,114
+Bibhya Sharma,167,115
+Mansour Assaf,168,115
+Pritika Reddy,169,115
+Pape Mawade Sylla,170,116
+Mohamed Sh. Mohamud,171,117
+Luis Rodrigues ,172,118
+Yula Loveline,173,119
+Ebot Walter Ojong,174,119
+Mbah Emmanuel Teke,175,120
+Penina Su’a Ioka,176,121
+Kirtie Algoe ,177,122
+Winston Soetosenojo,178,122
+Carolyn Walcott ,179,123
+Sheereen Banon Fauzel,180,124
+Roushdat Elaheebocus,181,124
+Anouk Ewald ,182,125
+Jacky Lumarque,183,125
+Francklin Benjamin,184,125
+Guerlande Bien-Aimé,185,125
+Marc Prou,186,125
+Renando Antoine,187,125
+Crista Mohammed,188,126
+Edgar Rodriguez Ríos ,189,127
+Ivette Torres,190,127
+Maria Sierra ,191,127
+Maritza García,192,127
+Marla Mendez,193,127
+Mercedes Torres,194,127
+Jose Frontera Agenjo,195,127
+Ehi Eric Esoimeme,196,128
+Paul Allieu Kamara,197,128
+Solomon Ediriverere Esomu,198,128
+Kemal Yıldırım,199,128
+Kemal Yıldırım,200,129
+Kemal Yıldırım,201,130
+Austin Mardon ,202,129
+Austin Mardon ,203,130
+Robert Amiller Okech,204,128
+Maseabata Vênus,205,131
+Adrian Besimi,206,132
+Lulzime Nuredini-Mehmede,207,132
+Florije Ismaili,208,132
+Jelena Titko,209,133
+Mohamed Farouk Ahmed Allam,210,134
+Irena Nikaj,211,135
+Andrew Hunte ,212,136
+Vlado Stankovski,213,137
+Petar Kochovski,214,137
+Pouriya Miri,215,137
+Mohammad Pezeshki,216,137
+Karidjatou Diallo,217,138
+Alice SOUMAHO,218,138
+Armand Josué DJAH ,219,138
+Akodah Ayewouadan ,220,139
+Stanislav Ivanov,221,140
+Lilit Alexander Bekaryan,222,141
+Muhammad Nadeem Iqbal,223,142
+Irum Gull Gillani,224,142
+Sidra Anser ,225,143
+Hina Fazil,226,144
+Régina Véronique Odjola,227,145
+Abdelmadjid Snouber,228,146
+Nurislam Kassymbek,229,147
+Shormakova Assem,230,147
+Naqibullah Mashal,231,148
+Clement Mwaanga,232,149
+Mark Chindumba,233,149
+Wilson L. Phiri ,234,149
+Sofia Bem Jebara,235,150
+Hajer Ferchichi,236,151
+Nadia Mzoughi Aguir,237,151
+Mongi Besbes,238,151
+Lazhar Manai,239,151
+Houda Ben Attia,240,151
+Ridha Bouallègue,241,151
+Naoufel Zitouni,242,151
+Slah Ouerhani,243,151
+Terry Hanley,244,152
+Bhagyashree Joshi,245,153
+Murray Duncan,246,154
+Aneesa Vel,247,154
+Deng Main Maker Kuctiel ,248,155
+Université André Salifou ,249,156
+Olugbenga Morebise,250,157
+Sanjoy Sanyal,251,157
+Prashanth Kumar Patnaik,252,157
+Etebong Udoh,253,157
+Nikolaos Avouris,254,158
+Aristotle Tympas,255,159
+Jemal Abafita ,256,160
+Shahnawaz Khan,257,161
+Karla Arosemena,258,162
+Javier Sánchez Galán,259,162
+Victor Fuentes ,260,162
+Natasha Bhatia,261,163
+Ganesh Neelakanta Iyer ,262,164
+Bao Nguyen Thien,263,165
+Given Chipili,264,166
+David Mulenga ,265,166
+Ruth Lindizyani Mfune,266,166
+Herbert Tato Nyirenda,267,166
+Victor Daka,268,166
+Betrand Ayuk Tambe,269,167
+BOMBA TATSINKOU Francis Desire,270,167
+NEMBO Erastus Nembu,271,167
+Tanue Elvis Asangbeng,272,167
+Ginyu Kwalar,273,167
+Patricia Ukegbu,274,168
+Brian Ukegbu,275,168
+Uzochukwu Anselm Onwuzuruike,276,168
+Sindisiwe Dube,277,169
+Kanungwe Kalaba,278,169
+Simon Sylvester,279,169
+Sofini Ndahayo,280,169
+Ajayi Kayode ,281,170
+Olawale Ignatius Oni ,282,170
+Kehinde Samuel Olaniyi,283,170
+Tonderai Masungo,284,171
+Prosper Chopera,285,171
+Beaula Mutonhodza,286,171
+Sipiwe Dzukamanja,287,171
+Claudia Maria Romero Orellana,288,172
+Filston Rukerandanga,289,173
+Angela Farias,290,174
+José Roberto Marty Delgado,291,174
+Manuel Martín Ela Ndong,292,174
+Paula Purificación Bosaho Sale,293,174
+Paulo Speller,294,174
+Kinley Seden ,295,175
+Jigme Wangdi,296,175
+Ugyen Pem,297,175
+Kuenzang Gyeltshen,298,175
+Sonam Wangmo ,299,175
+Manuel A. Medina Jr,300,176
+David Garcia,301,176
+Deneia Y. Fairweather,302,177
+Mirna Fawaz,303,178
+Amila Akagić ,304,179
+Andrea Miljko,305,180
+Andreas Schleicher,306,181
+Stéphan Vincent Lancrin,307,182
+Regina Kaplan-Rakowski,308,183
+Samuel Togba Slewion,309,184
+Anthony Dioh,310,184
+James Kromah,311,184
+Sheck Sherif,312,184
+Claresa Capehart Deline,313,184
+Samkelisiwe Patience Dlamini ,314,185
+Damian Maher,315,186
+José Júlio Júnior Guambe,316,112
+Yury Krapivin,317,187
+Yury Krapivin,318,188
+Denise Robb,319,189
+Sarah Rana,320,190
+Abdimajid Ali Abdullahi,321,117
+Margarida Romero ,322,191
+Ljiljana Tankosić,323,192
+Mar Pérez-Sanagustín ,324,193
+Emmanuelle CHEVRY PEBAYLE,325,194
+Brian Harrington,326,195
+Ganiu Bamgbose,327,42
+Yassine Niniss,328,92
+Abdelali Alla,329,92
+Ricardo da Silva Torres,330,196
+Azim Abdool ,331,197
+Kossi Atchonouglo ,332,139
+Marian Kaoma,333,149
+Nikolaos Avouris,334,198
+Chiamaka Okwunodulu,335,168
+Ejimchi Anyanwu,336,168
+Emmanuel Mweshi,337,169
+Grace Mwenya,338,169
+Justina Y. Talabi,339,170
+Olusegun Adebayo Adeoluwa,340,170
+Samsul Khabib,341,199
+Yasir S. Alsalamah,342,200
+Bander Saad Albagawi,343,201
+Lisa Babkair,344,202
+Ibrahim Alasqah,345,203
+Talal Ali F Alharbi,346,204
+Anomyous,347,205
+Nada Alqarawi,348,203
+Hana Khaled ALOtheimin,349,206
+Faisal I. Almohaileb,350,207
+Thamer Alslamah,351,208
+Monerh Abdullah Alfalaij,352,209
+Anomyous,353,210
+Isabel Coetzee,354,211
+Mona Gamal Mohamed,355,212
+Esin Kavuran,356,213
+Ziya Polat,357,214
+Aybike Bahçeli,358,215
+Alexei Sammut,359,216
+Ahmad Rayan,360,217
+Vaibhav Gandhi,361,218
+Sagaya Amalathas,362,218
+Satyaki Kanjilal,363,219
+Vernon Dmello,364,220
+Beverly Laltoog,365,221
+Hani Khalil Saleh Farran,366,222
+Anas Amos,367,222
+Jaskirat Singh,368,223
+Dannie Delanoy Carr,369,224
+Laura Esther Martínez,370,225
+Cesar Sanin,371,226
+Andrew Levula,372,227
+Aleksandra Martinović,373,228
+Nataša Papić-Blagojević,374,229
+Milinko Mandić,375,230
+Mirjana Ivanović,376,231
+Andreja Simić,377,231
+Aleksandra Klašnja-Milićević,378,231
+Joan Miguel Tejedor Estupiñán,379,232
+Marc Lester Acunin,380,233
+Arvy Osma,381,234
+Clare Guevara,382,235
+Kyi Zar Hein,383,236
+Dwi Putri Hartiningsari,384,237
+Hynek Roubík ,385,238
+January F. Naga,386,239
+Julieto E. Perez,387,239
+Muhammad Qomaruddin,388,240
+Imam Much Ibnu Subroto,389,240
+Ir. Suryani Alifah,390,240
+Ira Puspitasari,391,241
+Barry Nuqoba,392,241
+Nania Nuzulita,393,241
