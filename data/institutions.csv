@@ -1,251 +1,251 @@
-University / Institute,Country,institution_id
-"University of Campinas (UNICAMP), Brazil",Brazil,0
-"Federal University of Southern Bahia (UFSB), Brazil",Brazil,1
-Paulista University (UNIP) - Brazil,Brazil,2
-Federal University of Maranhão (UFMA) - Brazil,Brazil,3
-Federal University of Rio Grande do Sul (UFRGS),Brazil,4
-Federal Institute of Espírito Santo (IFES) – Campus Serra,Brazil,5
-"State Secretariat for Education, Sport and Leisure (SEEC)",Brazil,6
-"O.P. Jindal Global University (JGU), India",India,7
-"Multimedia University (MMU), Malaysia",Malaysia,8
-"Universiti Teknologi, Malaysia",Malaysia,9
-University of Reading Malaysia,Malaysia,10
-University of Puthisastra - Cambodia,Cambodia,11
-"National University of Battambang, Cambodia",Cambodia,12
-Shimonoseki City University - Japan,Japan,13
-Sendai University - Japan,Japan,14
-Cebu Technological University (CTU) - Philippines,Philippines,15
-The Chinese University of Hong Kong (CUHK) - Hong Kong,Hong Kong,16
-The Hong Kong University of Science and Technology (HKUST) - Hong Kong,Hong Kong,17
-University of Alcalá (UAH) - Spain,Spain,18
-University of Córdoba - Spain,Spain,19
-CESAG Centro de Enseñanza Superior Alberta Giménez - Spain,Spain,20
-University of Porto - Portugal,Portugal,21
-Instituto Politécnico de Bragança,Portugal,22
-Campus de Santa Apolónia - Portugal,Portugal,23
-Instituto Politécnico de Leiria - Portugal,Portugal,24
-University of Foggia - Italy,Italy,25
-University IUL Florence Italy,Italy,26
-"West University of Timisoara, Romania",Romania,27
-"Open University of Cyprus, Cyprus",Cyprus,28
-University College Dublin - Ireland,Ireland,29
-"Siirt University, Turkey",Turkey,30
-Bartin University - Turkey,Turkey,31
-Ağrı İbrahim Çeçen University - Turkey,Turkey,32
-University of Calgary - Canada,Canada,33
-University of Windsor - Canada,Canada,34
-University North - University Center Varazdin - Croatia,Croatia,35
-University of Southampton - England,England,36
-University of Glasgow - Scotland,Scotland,37
-University of Chester - England,England,38
-The Pennsylvania State University (Penn State Erie) - United States,United States,39
-Boise State University (BSU) - United States,United States,40
-"Elon University North Carolina, United States.",United States,41
-James Hope University,Nigeria,42
-"Lagos State University (LASU), Nigeria",Nigeria,43
-University of Calabar - Nigeria,Nigeria,44
-University of Education -  Ghana,Ghana,45
-Adventist University of Africa - Kenya,Kenya,46
-Daystar University Kenya - Kenya,Kenya,47
-"Busitema University, Uganda",Uganda,48
-"Makerere University Business School, Uganda",Uganda,49
-Human Sciences Research Council (HSRC) - South Africa,South Africa,50
-University of the Southern Caribbean - Trinidad and Tobago,Trinidad and Tobago,51
-"National University of Science and Technology, Zimbabwe",Zimbabwe,52
-"Chinhoyi University of Technology, Zimbabwe",Zimbabwe,53
-"Africa University, Zimbabwe",Zimbabwe,54
-"University of Technology, Jamaica",Jamaica,55
-University of the West Indies,Jamaica,56
-"The University of the West Indies, SALISES Mona - Jamaica",Jamaica,57
-University of Namibia - Namibia,Namibia,58
-"The Open University of Tanzania, Tanzania",Tanzania,59
-"Macau Polytechnic University (MPU), Macau",Macau,60
-"Stamford International University, Thailand",Thailand,61
-Tel Aviv University - Israel,Israel,62
-Al-Qasemi Academic College of Education - Israel,Israel,63
-University of Malta - Malta,Malta,64
-Universidad San Ignacio de Loyola - Peru,Peru,65
-"Universidad Nacional de San Agustín de Arequipa, Perú",Peru,66
-Universidad Mayor de San Andrés - Bolivia,Bolivia,67
-"Universidad Mayor, Real y Pontificia de San Francisco Xavier - Bolivia",Bolivia,68
-Pontificia Universidad Católica de Valparaíso (PUCV) - Chile,Chile,69
-Universidad Privada Boliviana (UPB) - Bolivia,Bolivia,70
-Universidad Católica Boliviana San Pablo - Bolivia,Bolivia,71
-Universidad de Concepción - Chile,Chile,72
-"Universidad Santiago de Cali, Colombia",Colombia,73
-CESMAG University - Colombia,Colombia,74
-National University of Colombia,Colombia,75
-Faculty of Information and Communication (FIC) - Uruguay,Uruguay,76
-Universidad Autónoma de Guadalajara- Mexico,Mexico,77
-Universidad de Carabobo - Venezuela,Venezuela,78
-National Autonomous University of Mexico (UNAM) - Mexico,Mexico,79
-"Instituto Tecnológico de Sonora, ITSON - Mexico",Mexico,80
-Universidad Panamericana,Mexico,81
-"National Polytechnic Institute (IPN), Mexico",Mexico,82
-Russian Presidential Academy of National Economy and Public Administration (RANEPA),Russia,83
-Pavlov First Saint Petersburg State Medical University,Russia,84
-Ural Federal University - Russia,Russia,85
-Federal State Budgetary Educational Institution of Higher Education,Russia,86
-"Jiangxi Tellhow Animation Vocational College, China",China,87
-Taizhou Vocational & Technical College - China,China,88
-"School of Foreign Languages, Jiaying University, Meizhou, Mainland China (People’s Republic of China)",China,89
-An-Najah National University - Palestine,Palestine,90
-Peninsula of Santa Elena State University (UPSE) - Ecuador,Ecuador,91
-Yemyung Graduate University - South Korea,South Korea,92
-Dankook University - South Korea,South Korea,93
-Mohamed I University (MIU) - Morocco,Morocco,94
-Universitas Negeri Padang (UNP) - Indonesia,Indonesia,95
-University of Halu Oleo - Indonesia,Indonesia,96
-"Universitas Muhammadiyah Malang, Indonesia",Indonesia,97
-University of Medical Sciences of Santiago de Cuba - Cuba,Cuba,98
-University of Bergen - Norway,Norway,99
-University of the Saint Thomas Aquinas Fraternity (UFASTA) - Argentina,Argentina,100
-University of Sri Jayewardenepura - Sri Lanka,Sri Lanka,101
-Universidad de las Regiones Autónomas de la Costa Caribe Nicaragüense (URACCAN) - Nicarágua,Nicaragua,102
-Al-Zaytoonah University - Jordan,Jordan,103
-"Higher Colleges of Technology - Dubai, United Arab Emirates",United Arab Emirates,104
-FOM University of Applied Sciences Essen - Germany,Germany,105
-Université de Lorraine (ENSAIA) - France,France,106
-University of Rwanda - Rwanda,Rwanda,107
-Center for Research and Development of the Higher Institute of Educational Sciences of Bié – Angola,Angola,108
-Kathmandu University,Nepal,109
-School of Education - Nepal,Nepal,110
-Universidad Nacional de Asunción (UNA) - Paraguay,Paraguay,111
-"Federal Institute of Pará (IFPA), Brazil",Brazil,112
-"Universidade Joaquim Chissano, Mozambique",Mozambique,113
-Universidade Eduardo Mondlane - Mozambique,Mozambique,114
-Universidade Pedagógica de Maputo (UP-Maputo) - Mozambique,Mozambique,115
-"Stockholm University, Sweden",Sweden,116
-École Supérieure d'Infotronique d'Haïti (ESIH),Haiti,117
-"University of the South Pacific (USP), Fiji",Fiji,118
-Cheikh Anta Diop University of Dakar - Senegal,Senegal,119
-Somali National University,Somalia,120
-Universidade de Santiago - Cabo Verde,Cabo Verde,121
-"University of Buea, Cameroon",Cameroon,122
-"University of Bamenda, Cameroon",Cameroon,123
-National University of Samoa - Samoa,Samoa,124
-Anton de Kom University of Suriname (AdeKUS) - Suriname,Suriname,125
-University of Guyana - Guyana,Guyana,126
-University of Mauritius,Mauritius,127
-InnovEd-UniQ - Quisqueya University (uniQ) - Haiti,Haiti,128
-The University of the West Indies - St. Agustine Campus - Trinidad and Tobago,Trinidad and Tobago,129
-Pontificia Universidad Católica de Puerto Rico,Puerto Rico,130
-African Union University - AUU International,Nigeria,131
-African Union University - AUU International,Sierra Leone,132
-African Union University - AUU International,Australia,133
-Mesopotamian Academy of Arts and Sciences,Turkey,134
-The Antartic institute of Canada - Canada,Canada,135
-African Union University - AUU International,Kenya,136
-National University of Lesotho.,Lesotho,137
-South East European University,Republic of North Macedonia,138
-EKA University of Applied Sciences,Latvia,139
-Ain Shams University - Faculty of Medicine,Egypt,140
-"University ""Fan S. Noli"" Korçë Albania",Albania,141
-The University of the West Indies,Antigua and Barbuda,142
-University of Ljubljana,Slovenia,143
-Université Alassane Ouattara - Côte d'Ivoire,Côte d'Ivoire,144
-Université de Lomé - Togo,Togo,145
-Varna University of Management - Bulgaria,Bulgaria,146
-Armenian State University of Economics (ASUE),Armenia,147
-"Bahauddin Zakariya University, Multan, Pakistan",Pakistan,148
-"University of Okara, Punjab, Pakistan",Pakistan,149
-"University of the Punjab, Pakistan",Pakistan,150
-"Marien Ngouabi University, Brazzaville - Congo",Congo,151
-University Oran 1 – Ahmed Ben Bella - Algeria,Algeria,152
-Al-Farabi Kazakh National University - Kazakhstan,Kazakhstan,153
-Kandahar University - Afghanistan,Afghanistan,154
-Mulungushi University - Zambia,Zambia,155
-L'École Supérieure des Communications de Tunis - Tunisia,Tunisia,156
-University of Carthage - Tunisia,Tunisia,157
-Clarence Fitzroy Bryant College - Saint Kitts and Nevis,Saint Kitts and Nevis,158
-"College of Marshall Islands, Majuro, Marshall Islands",Marshall Islands,159
-University of Seychelles - Seychelles,Seychelles,160
-Rumbek University of Science and Technology - South Sudan,South Sudan,161
-Université André Salifou,Niger,162
-All Saints University School of Medicine (ASUSM) - Dominica,Dominica,163
-Hellenic Open University (H.O.U.) - Greece,Greece,164
-National and Kapodistrian University of Athens - Greece,Greece,165
-Jimma University (JU) - Ethiopia,Ethiopia,166
-Bahrain Polytechnic - Bahrain,Bahrain,167
-Universidad Tecnológica de Panamá (UTP) - Panamá,Panamá,168
-Nanyang Technological University (NTU),Singapore,169
-National University of Singapore (NUS),Singapore,170
-RMIT University - Vietnam,Vietnam,171
-"Department of Public Health, The Copperbelt University, Zambia",Zambia,172
-"Department of Public Health, University of Buea, Cameroon",Cameroon,173
-"Michael Okpara University of Agriculture, Umudike, Nigeria",Nigeria,174
-"Department of Textile and Clothing Science, Mukuba University",Zambia,175
-"Afe Babalola University, Nigeria",Nigeria,176
-"Department of Nutrition, Dietetics and Food Sciences at the University of Zimbabwe, Zimbabwe",Zimbabwe,177
-"Facultad de Arquitectura, Universidad de San Carlos de Guatemala (USAC)",Guatemala,178
-"Faculty of Sciences and Technologies - Bujumbura International University, Burundi",Burundi,179
-Afro-American University of Central Africa (AAUCA),Equatorial Guinea,180
-Samtse College of Education - Royal University of Bhutan,Bhutan,181
-University of Belize - Belize,Belize,182
-Galen University  - Belize,Belize,183
-"Faculty of Health Sciences, Nursing Department, Beirut Arab University, Beirut, Lebanon.",Lebanon,184
-University of Sarajevo - Bosnia and Herzegovina,Bosnia and Herzegovina,185
-University of Mostar - Bosnia and Herzegovina,Bosnia and Herzegovina,186
-Organisation for Economic Co-operation and Development (OECD),France,187
-University of North Texas - USA,United States,188
-The United Methodist University (UMU),Liberia,189
-University of Eswatini,Eswatini,190
-University of Technology Sydney (UTS),Australia,191
-Belarusian State University of Informatics and Radioelectronics,Belarus,192
-Belarusian State University of Foreign Languages,Belarus,193
-Centenary College of Louisiana in Shreveport - USA,United States,194
-"California State University, Fresno - USA",United States,195
-AI Research Center (IIIA),Spain,196
-Spanish National Research Council (CSIC),Spain,197
-University of Banja Luka,Bosnia and Herzegovina,198
-L'Institut de Recherche en Informatique de Toulouse (IRIT) - France,France,199
-Université de Strasbourg - IUT R. Schuman,France,200
-University of Toronto - Scarborough (Canada),Canada,201
-"Wageningen University & Research (WUR), Wageningen, the Netherlands",the Netherlands,202
-Artificial Intelligence Innovation Centre (AIICentre) - Trinidad & Tobago,Tobago,203
-University of Patras - Greece,Greece,204
-"Department of Textile and Clothing Science, Mukuba University",Mukuba University,205
-Fakultas Keguruan dan Ilmu Pendidikan - Universitas PGRI Adi Buana Surabaya – Indonesia,Indonesia,206
-"Department of Nursing, Mental Health Hospital, Qassim Health Cluster, Qassim, Buraydah",Saudi Arabia,207
-"Medical Surgical Department, College of Nursing, Imam Mohammed Ibn Saud Islamic University, Riyadh, Saudi Arabia",Saudi Arabia,208
-"Faculty of Nursing, King Abdulaziz University, Jeddah, Saudi Arabia",Saudi Arabia,209
-"Department of Community, Psychiatric, and Mental Health Nursing, College of Nursing, Qassim University",Saudi Arabia,210
-"Department of Community, Psychiatric and Mental Health Nursing, College of Nursing, Qassim University",Saudi Arabia,211
-"Sulaiman AlRajhi University, College of Nursing, Department of Family and Community Health in Nursing, AlBukayriyah, Qassim",Saudi Arabia,212
-"Department of Medical-Surgical Nursing, College of Nursing, Princess Nourah bint Abdulrahman University",Saudi Arabia,213
-"Department of Family and Community Medicine, College of Medicine, Qassim University, Buraidah",Saudi Arabia,214
-"Department of Public Health, College of Applied Medical Sciences, Qassim University",Saudi Arabia,215
-"Dublin City University, Dublin, Ireland",Ireland,216
-"Department of Emergency, Nursing Affairs, King Saud University Medical City, Riyadh City",Saudi Arabia,217
-"Faculty of Health Science, Department of Nursing Science, University of Pretoria",South Africa,218
-"Adult Health Nursing, RAK College of Nursing, RAK Medical & Health Sciences University, Ras Al Khaimah, UAE.",United Arab Emirates,219
-Ataturk University,Turkey,220
-"Emergency Department, Sivas Numune Hospital",Turkey,221
-"Yozgat Bozok University. Assistant Professor, Department of Surgical Nursing.",Turkey,222
-"Department of Mental Health, Faculty of Health Sciences, University of Malta",Malta,223
-"Zarqa University, Jordan",Jordan,224
-University of Southampton Delhi,India,225
-Jindal School of Liberal Arts & Humanities - O. P. Jindal Global University,India,226
-Jindal Institute of Behavioural Sciences (JIBS) - O.P. Jindal Global University.,India,227
-University of Baguio,Philippines,228
-An-Najah National University,Palestine,229
-Chitkara Business School,India,230
-"Chitkara University, Punjab",India,231
-Quiros Adelaide University,Australia,232
-University of Birmingham,United Kingdom,233
-"The University of New England, Sydney, NSW, Australia",Australia,234
-"Excelsia University College, Sydney, Austrália",Australia,235
-"Republica Fund of Health Insurance, Belgrade, Serbia",Serbia,236
-"Academy of Applied Studies Novi Sad, Department of Novi Sad School of Business, Serbia",Serbia,237
-"University of Novi Sad, Faculty of Education in Sombor, Serbia",Serbia,238
-"University of Novi Sad, Faculty of Sciences, Serbia",Serbia,239
-"Fundación Universitaria del Area Andina,  Colombia",Colombia,240
-"UNIVERSITY OF CAMARINES NORTE, Philippines",Philippines,241
-"Mariners’ Polytechnic Colleges Foundation of Canaman, Philippines",Philippines,242
-"Jose Rizal Universtity, Philippines",Philippines,243
-Ritsumeikan Asia Pacific University (APU),Japan,244
-"STKIP PGRI Trenggalek, Indonesia",Indonesia,245
-"Czech University of Life Sciences Prague, Czech Republic",Czech Republic,246
-"Mindanao State University - Iligan Institute of Technology, the Philippines",Philippines,247
-"Universitas Islam Sultan Agung, Indonesia",Indonesia,248
-Universitas Airlangga - Indonesia,Indonesia,249
+University / Institute,Country,institution_id,lat,lon
+"University of Campinas (UNICAMP), Brazil",Brazil,0,-22.8209984555026,-47.06070271685122
+"Federal University of Southern Bahia (UFSB), Brazil",Brazil,1,-17.534371155494668,-39.72475570716014
+Paulista University (UNIP) - Brazil,Brazil,2,-23.564836005792536,-46.65086234749581
+Federal University of Maranhão (UFMA) - Brazil,Brazil,3,-2.524200304729046,-44.294795226337975
+Federal University of Rio Grande do Sul (UFRGS),Brazil,4,-30.03386111572198,-51.21906976083488
+Federal Institute of Espírito Santo (IFES) – Campus Serra,Brazil,5,-20.19747790663467,-40.2177316764264
+"State Secretariat for Education, Sport and Leisure (SEEC)",Brazil,6,-20.316686960654973,-40.30676104574177
+"O.P. Jindal Global University (JGU), India",India,7,28.926560720583204,77.05665039864977
+"Multimedia University (MMU), Malaysia",Malaysia,8,2.9279429343424277,101.64193794730154
+"Universiti Teknologi, Malaysia",Malaysia,9,1.6355132122782656,103.61534260986076
+University of Reading Malaysia,Malaysia,10,1.4316142097483529,103.61522359140562
+University of Puthisastra - Cambodia,Cambodia,11,11.562788133239948,104.92064959815356
+"National University of Battambang, Cambodia",Cambodia,12,13.086570741494135,103.219708667612
+Shimonoseki City University - Japan,Japan,13,33.9875717834091,130.93467348345118
+Sendai University - Japan,Japan,14,38.051011706068,140.77111581058347
+Cebu Technological University (CTU) - Philippines,Philippines,15,10.31491210539206,123.90496140787002
+The Chinese University of Hong Kong (CUHK) - Hong Kong,Hong Kong,16,22.419773748046463,114.20672841012438
+The Hong Kong University of Science and Technology (HKUST) - Hong Kong,Hong Kong,17,22.337544222192893,114.26334525245188
+University of Alcalá (UAH) - Spain,Spain,18,40.482594577347314,-3.362921046982547
+University of Córdoba - Spain,Spain,19,37.88861126759977,-4.7877343974604765
+CESAG Centro de Enseñanza Superior Alberta Giménez - Spain,Spain,20,39.591679377820896,2.619959552983015
+University of Porto - Portugal,Portugal,21,41.14676600735504,-8.61567834510972
+Instituto Politécnico de Bragança,Portugal,22,41.805912,-6.772583
+Campus de Santa Apolónia - Portugal,Portugal,23,41.805912,-6.772583
+Instituto Politécnico de Leiria - Portugal,Portugal,24,39.74101904941875,-8.812140612627994
+University of Foggia - Italy,Italy,25,41.45004357894925,15.566479226067027
+University IUL Florence Italy,Italy,26,43.77079001993352,11.264237810820342
+"West University of Timisoara, Romania",Romania,27,45.747194339686246,21.231690299256385
+"Open University of Cyprus, Cyprus",Cyprus,28,35.1132436003215,33.3774440835019
+University College Dublin - Ireland,Ireland,29,53.30986138966164,-6.221664804091991
+"Siirt University, Turkey",Turkey,30,37.93621025510828,41.94043068360276
+Bartin University - Turkey,Turkey,31,41.5507364334412,32.29018053956526
+Ağrı İbrahim Çeçen University - Turkey,Turkey,32,39.72199748862948,42.99243206832901
+University of Calgary - Canada,Canada,33,51.081764770268975,-114.13396264466463
+University of Windsor - Canada,Canada,34,42.30477241059953,-83.06578743156919
+University North - University Center Varazdin - Croatia,Croatia,35,46.3006298939371,16.327390255104117
+University of Southampton - England,England,36,50.93845929699554,-1.3977402954935472
+University of Glasgow - Scotland,Scotland,37,55.87255343560969,-4.29004431746084
+University of Chester - England,England,38,53.20044454323459,-2.899973551236344
+The Pennsylvania State University (Penn State Erie) - United States,United States,39,40.88295104447712,-77.83608978494823
+Boise State University (BSU) - United States,United States,40,43.60249175529035,-116.20100868918664
+"Elon University North Carolina, United States.",United States,41,36.10300641030667,-79.50231125879304
+James Hope University,Nigeria,42,6.435736222135223,3.5268027387211327
+"Lagos State University (LASU), Nigeria",Nigeria,43,6.466579165670413,3.2003006963918885
+University of Calabar - Nigeria,Nigeria,44,4.952530993099487,8.339991969394365
+University of Education - Ghana,Ghana,45,5.346326111105502,-0.6254775481598045
+Adventist University of Africa - Kenya,Kenya,46,-1.4025700630270534,36.72831468102981
+Daystar University Kenya - Kenya,Kenya,47,-1.44108179677579,37.04761872520619
+"Busitema University, Uganda",Uganda,48,0.5454457963469586,34.020197057734336
+"Makerere University Business School, Uganda",Uganda,49,0.5186801396216332,32.65232219836389
+Human Sciences Research Council (HSRC) - South Africa,South Africa,50,-25.747878123206423,28.18425686787644
+University of the Southern Caribbean - Trinidad and Tobago,Trinidad and Tobago,51,10.693469087088063,-61.40761815939399
+"National University of Science and Technology, Zimbabwe",Zimbabwe,52,-17.72945351962507,30.976452261130667
+"Chinhoyi University of Technology, Zimbabwe",Zimbabwe,53,-17.353415759602058,30.20577992351508
+"Africa University, Zimbabwe",Zimbabwe,54,-18.896721428132807,32.60132179655557
+"University of Technology, Jamaica",Jamaica,55,18.01825800437752,-76.74357850346128
+University of the West Indies,Jamaica,56,18.006102247242755,-76.74677163045
+"The University of the West Indies, SALISES Mona - Jamaica",Jamaica,57,18.006652226515257,-76.74785884579101
+University of Namibia - Namibia,Namibia,58,-22.612050230272725,17.058340410128743
+"The Open University of Tanzania, Tanzania",Tanzania,59,-6.783338940976164,39.264715511735226
+"Macau Polytechnic University (MPU), Macau",Macau,60,22.19364111943227,113.55184209662492
+"Stamford International University, Thailand",Thailand,61,13.7353742289055,100.66131243879794
+Tel Aviv University - Israel,Israel,62,32.11355049766468,34.80351243737909
+Al-Qasemi Academic College of Education - Israel,Israel,63,32.41316496754914,35.03327020761173
+University of Malta - Malta,Malta,64,35.90424633118625,14.482592209381655
+Universidad San Ignacio de Loyola - Peru,Peru,65,-12.072868989720089,-76.9518188458834
+"Universidad Nacional de San Agustín de Arequipa, Perú",Peru,66,-16.40549541598273,-71.52051476215703
+Universidad Mayor de San Andrés - Bolivia,Bolivia,67,-16.50455090910149,-68.13000563417025
+"Universidad Mayor, Real y Pontificia de San Francisco Xavier - Bolivia",Bolivia,68,-19.04644201397785,-65.26116136870812
+Pontificia Universidad Católica de Valparaíso (PUCV) - Chile,Chile,69,-33.04244332761886,-71.60844297327236
+Universidad Privada Boliviana (UPB) - Bolivia,Bolivia,70,-16.575003223852896,-68.12702628814606
+Universidad Católica Boliviana San Pablo - Bolivia,Bolivia,71,-16.517383818015663,-68.11268063848443
+Universidad de Concepción - Chile,Chile,72,-36.82978808363736,-73.03573408944901
+"Universidad Santiago de Cali, Colombia",Colombia,73,3.4034817758755422,-76.54703291711822
+CESMAG University - Colombia,Colombia,74,1.2097521625722842,-77.27856234116169
+National University of Colombia,Colombia,75,4.63973135740446,-74.08905863245393
+Faculty of Information and Communication (FIC) - Uruguay,Uruguay,76,-34.91111999591365,-56.17292255698775
+Universidad Autónoma de Guadalajara- Mexico,Mexico,77,20.6946717271902,-103.41824348991383
+Universidad de Carabobo - Venezuela,Venezuela,78,10.276971200258744,-68.01808037473951
+National Autonomous University of Mexico (UNAM) - Mexico,Mexico,79,19.327393499655603,-99.18466846110655
+"Instituto Tecnológico de Sonora, ITSON - Mexico",Mexico,80,27.51484476512885,-109.95366120191488
+Universidad Panamericana,Mexico,81,19.722296443577168,-99.2770001191447
+"National Polytechnic Institute (IPN), Mexico",Mexico,82,19.64086251685735,-99.20369842265956
+Russian Presidential Academy of National Economy and Public Administration (RANEPA),Russia,83,55.66515928401675,37.47936962670514
+Pavlov First Saint Petersburg State Medical University,Russia,84,59.96462991682373,30.320626153911924
+Ural Federal University - Russia,Russia,85,56.840394994193744,60.615939367246455
+Federal State Budgetary Educational Institution of Higher Education,Russia,86,,
+"Jiangxi Tellhow Animation Vocational College, China",China,87,28.572974775141237,115.878793996789
+Taizhou Vocational & Technical College - China,China,88,28.65246378613705,121.40170353912086
+"School of Foreign Languages, Jiaying University, Meizhou, Mainland China (People’s Republic of China)",China,89,24.32725846325206,116.12941784403574
+An-Najah National University - Palestine,Palestine,90,32.227668960748034,35.220668312241166
+Peninsula of Santa Elena State University (UPSE) - Ecuador,Ecuador,91,-2.233124590871948,-80.87801109197989
+Yemyung Graduate University - South Korea,South Korea,92,37.4842744,127.0237903
+Dankook University - South Korea,South Korea,93,37.321944,127.126111
+Mohamed I University (MIU) - Morocco,Morocco,94,34.65035869186346,-1.8989982760312216
+Universitas Negeri Padang (UNP) - Indonesia,Indonesia,95,-0.9001483885334506,100.42277448331608
+University of Halu Oleo - Indonesia,Indonesia,96,-4.008431980423636,122.52077575404884
+"Universitas Muhammadiyah Malang, Indonesia",Indonesia,97,-7.961036125068813,112.62477032003297
+University of Medical Sciences of Santiago de Cuba - Cuba,Cuba,98,20.36243791744629,-75.9193240817003
+University of Bergen - Norway,Norway,99,60.38792219185692,5.321765626945527
+University of the Saint Thomas Aquinas Fraternity (UFASTA) - Argentina,Argentina,100,-37.838578099733134,-57.63771290098713
+University of Sri Jayewardenepura - Sri Lanka,Sri Lanka,101,6.852945729941139,79.90360295576521
+Universidad de las Regiones Autónomas de la Costa Caribe Nicaragüense (URACCAN) - Nicarágua,Nicaragua,102,12.139933155004254,-86.24138269005878
+Al-Zaytoonah University - Jordan,Jordan,103,31.83284431942703,35.89244459504077
+"Higher Colleges of Technology - Dubai, United Arab Emirates",United Arab Emirates,104,25.295056001194894,55.3763431785626
+FOM University of Applied Sciences Essen - Germany,Germany,105,51.45676109777381,7.0231890246551485
+Université de Lorraine (ENSAIA) - France,France,106,48.65186632258621,6.147281438020309
+University of Rwanda - Rwanda,Rwanda,107,-1.883085530521503,30.09162588548711
+Center for Research and Development of the Higher Institute of Educational Sciences of Bié – Angola,Angola,108,-12.387816606072237,16.928727343564066
+Kathmandu University,Nepal,109,27.631198,85.538707
+School of Education - Nepal,Nepal,110,27.631198,85.538707
+Universidad Nacional de Asunción (UNA) - Paraguay,Paraguay,111,-25.33141404317293,-57.51858081533482
+"Federal Institute of Pará (IFPA), Brazil",Brazil,112,-1.1470613709218205,-48.57167437045623
+"Universidade Joaquim Chissano, Mozambique",Mozambique,113,-25.821197258549464,32.58194058137252
+Universidade Eduardo Mondlane - Mozambique,Mozambique,114,-25.951807933816312,32.603309629894774
+Universidade Pedagógica de Maputo (UP-Maputo) - Mozambique,Mozambique,115,-25.97350558984751,32.5851534832234
+"Stockholm University, Sweden",Sweden,116,59.365332680924936,18.055037969221875
+École Supérieure d'Infotronique d'Haïti (ESIH),Haiti,117,18.54070681844696,-72.31983320345137
+"University of the South Pacific (USP), Fiji",Fiji,118,-18.148035987745907,178.447632883047
+Cheikh Anta Diop University of Dakar - Senegal,Senegal,119,14.687419305178205,-17.46390838443193
+Somali National University,Somalia,120,2.0399721844198235,45.28720172336078
+Universidade de Santiago - Cabo Verde,Cabo Verde,121,15.095875361249286,-23.66285904768759
+"University of Buea, Cameroon",Cameroon,122,4.149029305189882,9.287873054074913
+"University of Bamenda, Cameroon",Cameroon,123,5.983529249811662,10.181355409908251
+National University of Samoa - Samoa,Samoa,124,-13.85238890114295,-171.7497507169992
+Anton de Kom University of Suriname (AdeKUS) - Suriname,Suriname,125,5.812844294194407,-55.21732067659847
+University of Guyana - Guyana,Guyana,126,6.812535277171239,-58.11783589008617
+University of Mauritius,Mauritius,127,-20.23491138126901,57.496299396606496
+InnovEd-UniQ - Quisqueya University (uniQ) - Haiti,Haiti,128,18.52734191934961,-72.32179338993322
+The University of the West Indies - St. Agustine Campus - Trinidad and Tobago,Trinidad and Tobago,129,10.641600422493322,-61.39953049005163
+Pontificia Universidad Católica de Puerto Rico,Puerto Rico,130,18.00081110148462,-66.61869083227238
+African Union University - AUU International,Nigeria,131,6.370378094371515,2.391300569428163
+African Union University - AUU International,Sierra Leone,132,6.370378094371515,2.391300569428163
+African Union University - AUU International,Australia,133,6.370378094371515,2.391300569428163
+Mesopotamian Academy of Arts and Sciences,Turkey,134,,
+The Antartic institute of Canada - Canada,Canada,135,,
+African Union University - AUU International,Kenya,136,6.370378094371515,2.391300569428163
+National University of Lesotho.,Lesotho,137,-29.451138866528037,27.72057072567257
+South East European University,Republic of North Macedonia,138,42.01656516278235,20.962305858797624
+EKA University of Applied Sciences,Latvia,139,56.955005528196686,24.152569528632178
+Ain Shams University - Faculty of Medicine,Egypt,140,30.07608556522141,31.282235896855948
+"University ""Fan S. Noli"" Korçë Albania",Albania,141,40.62747469977468,20.785445768384427
+The University of the West Indies,Antigua and Barbuda,142,17.12016489335142,-61.833667853024586
+University of Ljubljana,Slovenia,143,46.049260787388,14.50417665511206
+Université Alassane Ouattara - Côte d'Ivoire,Côte d'Ivoire,144,7.68657144644662,-5.066689774738561
+Université de Lomé - Togo,Togo,145,6.1760748263674,1.2148362657331095
+Varna University of Management - Bulgaria,Bulgaria,146,43.2122553014233,27.90928428382849
+Armenian State University of Economics (ASUE),Armenia,147,40.18437133003809,44.525089399049456
+"Bahauddin Zakariya University, Multan, Pakistan",Pakistan,148,30.27040514093971,71.50239903919116
+"University of Okara, Punjab, Pakistan",Pakistan,149,30.86717702059849,73.56661912571508
+"University of the Punjab, Pakistan",Pakistan,150,31.48959012307875,74.2712988141914
+"Marien Ngouabi University, Brazzaville - Congo",Congo,151,-4.276350117446571,15.24997796572288
+University Oran 1 – Ahmed Ben Bella - Algeria,Algeria,152,35.63736437047662,-0.6150050587878126
+Al-Farabi Kazakh National University - Kazakhstan,Kazakhstan,153,43.22539307278362,76.92256976848795
+Kandahar University - Afghanistan,Afghanistan,154,31.632313313743605,65.69735835457399
+Mulungushi University - Zambia,Zambia,155,-14.448338543407525,28.445594425338705
+L'École Supérieure des Communications de Tunis - Tunisia,Tunisia,156,36.89196523947071,10.187795354750708
+University of Carthage - Tunisia,Tunisia,157,36.87184865537581,10.3341323943694
+Clarence Fitzroy Bryant College - Saint Kitts and Nevis,Saint Kitts and Nevis,158,17.296681414616152,-62.73109603043824
+"College of Marshall Islands, Majuro, Marshall Islands",Marshall Islands,159,7.1027253114707305,171.37806489457475
+University of Seychelles - Seychelles,Seychelles,160,-4.740486958179296,55.51605136757188
+Rumbek University of Science and Technology - South Sudan,South Sudan,161,6.811162458799069,29.681023911760672
+Université André Salifou,Niger,162,13.819942405655317,8.979583640670779
+All Saints University School of Medicine (ASUSM) - Dominica,Dominica,163,15.300007865474608,-61.38798818998896
+Hellenic Open University (H.O.U.) - Greece,Greece,164,38.206343969813496,21.76732728178687
+National and Kapodistrian University of Athens - Greece,Greece,165,38.57361980053208,23.645730632337127
+Jimma University (JU) - Ethiopia,Ethiopia,166,7.68219687817032,36.85604849827304
+Bahrain Polytechnic - Bahrain,Bahrain,167,26.163343191203865,50.54378435256944
+Universidad Tecnológica de Panamá (UTP) - Panamá,Panamá,168,9.03079233172282,-79.52910838698348
+Nanyang Technological University (NTU),Singapore,169,1.3483469678286215,103.68308328177038
+National University of Singapore (NUS),Singapore,170,1.297810189955257,103.77663795221991
+RMIT University - Vietnam,Vietnam,171,10.729348037085392,106.6939145964551
+"Department of Public Health, The Copperbelt University, Zambia",Zambia,172,-12.80531355764273,28.239667827162734
+"Department of Public Health, University of Buea, Cameroon",Cameroon,173,4.1555454065626085,9.29610490009819
+"Michael Okpara University of Agriculture, Umudike, Nigeria",Nigeria,174,5.480802772183494,7.545657409905243
+"Department of Textile and Clothing Science, Mukuba University",Zambia,175,-12.721751094171545,28.14996594101727
+"Afe Babalola University, Nigeria",Nigeria,176,7.6716009057568835,5.307022751921556
+"Department of Nutrition, Dietetics and Food Sciences at the University of Zimbabwe, Zimbabwe",Zimbabwe,177,-17.782363253269992,31.054661254229227
+"Facultad de Arquitectura, Universidad de San Carlos de Guatemala (USAC)",Guatemala,178,14.587980549650927,-90.55175439000016
+"Faculty of Sciences and Technologies - Bujumbura International University, Burundi",Burundi,179,-3.3624258783952645,29.384706394719025
+Afro-American University of Central Africa (AAUCA),Equatorial Guinea,180,1.6073670889140448,10.85881902186004
+Samtse College of Education - Royal University of Bhutan,Bhutan,181,26.925315033830064,89.09705575710808
+University of Belize - Belize,Belize,182,17.265729532099993,-88.784625965378
+Galen University - Belize,Belize,183,17.18736898208778,-88.99811023228712
+"Faculty of Health Sciences, Nursing Department, Beirut Arab University, Beirut, Lebanon.",Lebanon,184,,
+University of Sarajevo - Bosnia and Herzegovina,Bosnia and Herzegovina,185,43.85699682398467,18.418938526184444
+University of Mostar - Bosnia and Herzegovina,Bosnia and Herzegovina,186,43.345542094322745,17.796734781987055
+Organisation for Economic Co-operation and Development (OECD),France,187,48.86158595407332,2.270200839894641
+University of North Texas - USA,United States,188,33.20920045188861,-97.15351410489288
+The United Methodist University (UMU),Liberia,189,6.317609066841558,-10.805023732419084
+University of Eswatini,Eswatini,190,-26.56801142823899,31.177943698835637
+University of Technology Sydney (UTS),Australia,191,-33.88355569877973,151.2005904393057
+Belarusian State University of Informatics and Radioelectronics,Belarus,192,53.91888139505146,27.59372665547146
+Belarusian State University of Foreign Languages,Belarus,193,53.90830786523328,27.578808926290836
+Centenary College of Louisiana in Shreveport - USA,United States,194,32.48482462514709,-93.73221997608115
+"California State University, Fresno - USA",United States,195,36.81370344049748,-119.74612305874638
+AI Research Center (IIIA),Spain,196,41.501364,2.110953
+Spanish National Research Council (CSIC),Spain,197,41.501364,2.110953
+University of Banja Luka,Bosnia and Herzegovina,198,44.77479779590416,17.211187616276547
+L'Institut de Recherche en Informatique de Toulouse (IRIT) - France,France,199,43.563596115175685,1.4692704641317282
+Université de Strasbourg - IUT R. Schuman,France,200,48.555631571412135,7.758657597551471
+University of Toronto - Scarborough (Canada),Canada,201,43.784758664388775,-79.18596828915963
+"Wageningen University & Research (WUR), Wageningen, the Netherlands",the Netherlands,202,51.98642676011591,5.668029426544108
+Artificial Intelligence Innovation Centre (AIICentre) - Trinidad & Tobago,Tobago,203,10.63917311194709,-61.45094371704002
+University of Patras - Greece,Greece,204,38.28995048822569,21.78602156336297
+"Department of Textile and Clothing Science, Mukuba University",Mukuba University,205,-12.721751094171545,28.14996594101727
+Fakultas Keguruan dan Ilmu Pendidikan - Universitas PGRI Adi Buana Surabaya – Indonesia,Indonesia,206,-7.344330098881358,112.72262662525868
+"Department of Nursing, Mental Health Hospital, Qassim Health Cluster, Qassim, Buraydah",Saudi Arabia,207,26.34918998881833,43.76692688036421
+"Medical Surgical Department, College of Nursing, Imam Mohammed Ibn Saud Islamic University, Riyadh, Saudi Arabia",Saudi Arabia,208,24.818769659876704,46.70719856317723
+"Faculty of Nursing, King Abdulaziz University, Jeddah, Saudi Arabia",Saudi Arabia,209,21.49821747923566,39.23892639493099
+"Department of Community, Psychiatric, and Mental Health Nursing, College of Nursing, Qassim University",Saudi Arabia,210,26.34918998881833,43.76692688036421
+"Department of Community, Psychiatric and Mental Health Nursing, College of Nursing, Qassim University",Saudi Arabia,211,26.34918998881833,43.76692688036421
+"Sulaiman AlRajhi University, College of Nursing, Department of Family and Community Health in Nursing, AlBukayriyah, Qassim",Saudi Arabia,212,26.142100453102618,43.73165576790985
+"Department of Medical-Surgical Nursing, College of Nursing, Princess Nourah bint Abdulrahman University",Saudi Arabia,213,24.84674993527236,46.72548641020621
+"Department of Family and Community Medicine, College of Medicine, Qassim University, Buraidah",Saudi Arabia,214,26.34918998881833,43.76692688036421
+"Department of Public Health, College of Applied Medical Sciences, Qassim University",Saudi Arabia,215,26.34918998881833,43.76692688036421
+"Dublin City University, Dublin, Ireland",Ireland,216,53.38537006642077,-6.2588403022247565
+"Department of Emergency, Nursing Affairs, King Saud University Medical City, Riyadh City",Saudi Arabia,217,24.719504554228283,46.611710427232765
+"Faculty of Health Science, Department of Nursing Science, University of Pretoria",South Africa,218,-25.754193167912923,28.2315795813942
+"Adult Health Nursing, RAK College of Nursing, RAK Medical & Health Sciences University, Ras Al Khaimah, UAE.",United Arab Emirates,219,25.767070879527022,55.97672650071217
+Ataturk University,Turkey,220,39.89959682687955,41.244208541367954
+"Emergency Department, Sivas Numune Hospital",Turkey,221,39.741715969127846,37.03992503173237
+"Yozgat Bozok University. Assistant Professor, Department of Surgical Nursing.",Turkey,222,39.776701423267866,34.800885019244646
+"Department of Mental Health, Faculty of Health Sciences, University of Malta",Malta,223,35.90171895521327,14.477885040747047
+"Zarqa University, Jordan",Jordan,224,32.05808296619159,36.154547769928485
+University of Southampton Delhi,India,225,28.4071818263171,77.11983529680711
+Jindal School of Liberal Arts & Humanities - O. P. Jindal Global University,India,226,28.92649498849045,77.05654311031624
+Jindal Institute of Behavioural Sciences (JIBS) - O.P. Jindal Global University.,India,227,28.92649498849045,77.05654311031624
+University of Baguio,Philippines,228,16.415189733503077,120.597444310029
+An-Najah National University,Palestine,229,32.227668960748034,35.220668312241166
+Chitkara Business School,India,230,30.516142,76.659756
+"Chitkara University, Punjab",India,231,30.516142,76.659756
+Quiros Adelaide University,Australia,232,-34.91785897850173,138.60561571891807
+University of Birmingham,United Kingdom,233,52.450680797101896,-1.9304886715871068
+"The University of New England, Sydney, NSW, Australia",Australia,234,-33.813438302891534,151.00404433930325
+"Excelsia University College, Sydney, Austrália",Australia,235,-33.739736755748375,151.06933882765352
+"Republica Fund of Health Insurance, Belgrade, Serbia",Serbia,236,44.80672626889147,20.454455653877368
+"Academy of Applied Studies Novi Sad, Department of Novi Sad School of Business, Serbia",Serbia,237,,
+"University of Novi Sad, Faculty of Education in Sombor, Serbia",Serbia,238,45.24752853217039,19.853874792703905
+"University of Novi Sad, Faculty of Sciences, Serbia",Serbia,239,45.24752853217039,19.853874792703905
+"Fundación Universitaria del Area Andina, Colombia",Colombia,240,4.787151163969644,-74.09389649267095
+"UNIVERSITY OF CAMARINES NORTE, Philippines",Philippines,241,14.109013917504548,122.95618748300431
+"Mariners’ Polytechnic Colleges Foundation of Canaman, Philippines",Philippines,242,13.652795307028498,123.18119373199976
+"Jose Rizal Universtity, Philippines",Philippines,243,14.59256791692976,121.02858075417612
+Ritsumeikan Asia Pacific University (APU),Japan,244,33.33725359792949,131.4683447969581
+"STKIP PGRI Trenggalek, Indonesia",Indonesia,245,-8.035580786622736,111.71020075594652
+"Czech University of Life Sciences Prague, Czech Republic",Czech Republic,246,50.13006274858278,14.37361935529328
+"Mindanao State University - Iligan Institute of Technology, the Philippines",Philippines,247,8.241149298632035,124.24336049643068
+"Universitas Islam Sultan Agung, Indonesia",Indonesia,248,-6.955585743449476,110.45809339642052
+Universitas Airlangga - Indonesia,Indonesia,249,-7.266937297114856,112.78453912564412
