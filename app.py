@@ -6,10 +6,51 @@ from streamlit_folium import st_folium
 
 DATA_PATH = "./data"
 
-df = pd.read_excel(DATA_PATH + "/institutions-and-researchers.xlsx")
+@st.cache_data
+def carregar_dados():
+    return pd.read_excel(DATA_PATH + "/institutions-and-researchers.xlsx")
+
+@st.cache_data
+def carregar_instituiçoes():
+    return pd.read_csv(DATA_PATH + "/institutions.csv")
+
+@st.cache_data
+def carregar_researchers():
+    return pd.read_csv(DATA_PATH + "/researchers.csv")
+
+df = carregar_dados()
+df_institutions = carregar_instituiçoes()
+df_researchers = carregar_researchers()
 
 st.title("Globe GenAI 🌎️")
 st.markdown("O projeto consiste na elaboração de um *software web* que permita a visualização em um mapa mundi das instituições registradas em um determinado `dataset`.")
+
+# Dialog: janela de diálogo (modal)
+# Dismissible True permite fechar a janela clicando fora dela
+@st.dialog("Informations about the institution", dismissible=True)
+def mostrar_instituicao(instituicao):
+    st.subheader(instituicao["University / Institute"])
+    st.write("**Country:**", instituicao["Country"])
+
+    researchers = df_researchers[
+        df_researchers["institution_id"]
+        == instituicao["institution_id"]
+    ]
+
+    st.subheader("Researchers")
+
+    if researchers.empty:
+        st.write("No researchers found.")
+    else:
+        st.dataframe(
+            researchers[["Research Name"]].rename(
+                columns={
+                    "Research Name": "Nome do pesquisador"
+                }
+            ),
+            use_container_width=True,
+            hide_index=True,
+        )
 
 def carregar_mapa():
     with open("continents.geojson", "r", encoding="utf-8") as f:
@@ -50,7 +91,41 @@ def carregar_mapa():
             ),
         ).add_to(mapa)
 
-    st_data = st_folium(mapa, use_container_width=True, height=500)
+
+    for _, linha in df_institutions.iterrows():
+        if pd.isna(linha["lat"]) or pd.isna(linha["lon"]):
+            continue
+
+        folium.Marker(
+            location=[linha["lat"], linha["lon"]],
+            tooltip=linha["University / Institute"],
+            icon=folium.Icon(
+                color="darkblue",
+                icon="map-marker",
+                prefix="fa"
+            ),
+        ).add_to(mapa)
+
+    #st_data = st_folium(mapa, use_container_width=True, height=500)
+
+    st_data = st_folium(
+        mapa,
+        use_container_width=True,
+        height=500,
+        key="mapa_instituicoes",
+    )
+
+    if st_data and st_data["last_object_clicked"]:
+        ponto = st_data["last_object_clicked"]
+
+        selecionada = df_institutions[
+            (df_institutions["lat"] == ponto["lat"]) &
+            (df_institutions["lon"] == ponto["lng"])
+        ]
+
+        if not selecionada.empty:
+            mostrar_instituicao(selecionada.iloc[0])
+
     return st_data
 
 carregar_mapa()
