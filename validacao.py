@@ -42,22 +42,49 @@ def limparLinhasInvalidas(institutions, researchers):
   sem_coord = verificaCoordenadaVazia(institutions)
   invalidas = validacaoCoordenadas(institutions)
   # Instituições limpas: fica só quem NÃO está em sem_coord E NÃO está em invalidas
-  institutions_limpas = institutions[
-      ~institutions["institution_id"].isin(sem_coord["institution_id"])
-      & ~institutions["institution_id"].isin(invalidas["institution_id"])
+  institutions_limpas = institutions[~institutions["institution_id"].isin(sem_coord["institution_id"])
+  & ~institutions["institution_id"].isin(invalidas["institution_id"])
   ]
 
   #  fica só quem aponta para uma instituição que sobrou.
   # e quem apontava para uma instituição que acabou de sair.
-  researchers_limpos = researchers[
-      researchers["institution_id"].isin(institutions_limpas["institution_id"])
+  researchers_limpos = researchers[researchers["institution_id"].isin(institutions_limpas["institution_id"])
   ]
 
   # devolve duas tabelas novas. as originais não são alteradas.
   return institutions_limpas, researchers_limpos
 
+def montarAvisos(institutions, researchers):
+  avisos = []
+  
+  coord_vazia = verificaCoordenadaVazia(institutions)
+  if len(coord_vazia) > 0:
+    avisos.append({"id": "coordenada_vazia", "texto": f"tem {len(coord_vazia)} linhas com coordenadas vazias.", "detalhes": coord_vazia})
+    
+  coord_invalida = validacaoCoordenadas(institutions)
+  if len(coord_invalida) > 0:
+    avisos.append({"id": "coordenada_invalida", "texto": f"Foram encontradas {len(coord_invalida)} coordenadas inválidas.", "detalhes": coord_invalida})
+    
+  pesq_cinsti_inv = pesquisadorInstituicaoInexistente(institutions, researchers)
+  if len(pesq_cinsti_inv) > 0:
+    avisos.append({"id": "pesquisador_com_id_de_instituicao_inexistente", "texto": f"Foram econtrados {len(pesq_cinsti_inv)} pesquisadores com ID de Instituições Inexistentes.", "detalhes": pesq_cinsti_inv})
+    
+  pesq_sinst = pesquisadorSemInstituicao(researchers)
+  if len(pesq_sinst) > 0:
+    avisos.append({"id": "pesquisador_sem_id_de_instituicao", "texto": f"Foram econtrados {len(pesq_sinst)} pesquisadores sem ID de Instituição.", "detalhes": pesq_sinst})
+    
+  inst_spesq = instituicaoSemPesquisador(institutions, researchers)
+  if len(inst_spesq) > 0:
+    avisos.append({"id": "instituicao_sem_pesquisador_relacionado", "texto": f"Foram econtradas {len(inst_spesq)} instituições sem ID de Pesquisadores Relacionados.", "detalhes": inst_spesq})
+  
+  return avisos
+  
 if __name__ == "__main__":
-    institutions, researchers = carregarDados()
-    inst_limpas, pesq_limpos = limparLinhasInvalidas(institutions, researchers)
-    print(len(inst_limpas), len(pesq_limpos))  
-    print(len(institutions), len(researchers))  
+  institutions, researchers = carregarDados()
+  inst_limpas, pesq_limpos = limparLinhasInvalidas(institutions, researchers)
+  print(len(inst_limpas), len(pesq_limpos))  
+  print(len(institutions), len(researchers)) 
+  avisos = montarAvisos(institutions, researchers)
+  for aviso in avisos:
+    print(aviso["texto"])
+    print(len(aviso["detalhes"]))
