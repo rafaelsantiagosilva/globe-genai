@@ -3,12 +3,32 @@ import json
 import folium
 import streamlit as st
 from streamlit_folium import st_folium
+from validacao import carregarDados, montarAvisos
+
+institutions, researchers = carregarDados()
+avisos = montarAvisos(institutions, researchers)
+
+def mostrarAvisos(avisos):
+    for aviso in avisos:
+        mostrar = f"mostrar_{aviso['id']}"
+        ignorar = f"ignorar_{aviso['id']}"
+        
+        if not st.session_state.get(mostrar, True):
+            continue
+        
+        st.warning(aviso["texto"])
+        with st.expander("Ver mais"):
+            st.dataframe(aviso["detalhes"])
+        if st.button("Ignorar", key=ignorar):
+            st.session_state[mostrar] = False
+            st.rerun()
 
 DATA_PATH = "./data"
 
 df = pd.read_excel(DATA_PATH + "/institutions-and-researchers.xlsx")
 
 st.title("Globe GenAI 🌎️")
+mostrarAvisos(avisos)
 st.markdown("O projeto consiste na elaboração de um *software web* que permita a visualização em um mapa mundi das instituições registradas em um determinado `dataset`.")
 
 def carregar_mapa():
@@ -56,3 +76,4 @@ def carregar_mapa():
 carregar_mapa()
 
 st.dataframe(df)
+
