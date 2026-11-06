@@ -128,14 +128,17 @@ def carregar_mapa():
 
     if st_data and st_data["last_object_clicked"]:
         ponto = st_data["last_object_clicked"]
+        clique = (ponto["lat"], ponto["lng"])
 
-        selecionada = df_institutions[
-            (df_institutions["lat"] == ponto["lat"]) &
-            (df_institutions["lon"] == ponto["lng"])
-        ]
+        if st.session_state.get("ultimo_clique_tratado") != clique:
+            st.session_state["ultimo_clique_tratado"] = clique
+            selecionada = df_institutions[
+                (df_institutions["lat"] == ponto["lat"]) &
+                (df_institutions["lon"] == ponto["lng"])
+            ]
 
-        if not selecionada.empty:
-            mostrar_instituicao(selecionada.iloc[0])
+            if not selecionada.empty:
+                mostrar_instituicao(selecionada.iloc[0])
 
     return st_data
 
