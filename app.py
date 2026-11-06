@@ -3,10 +3,11 @@ import json
 import folium
 import streamlit as st
 from streamlit_folium import st_folium
-from validacao import carregarDados, montarAvisos
+from validacao import carregarDados, montarAvisos, limparLinhasInvalidas
 
 institutions, researchers = carregarDados()
 avisos = montarAvisos(institutions, researchers)
+df_institutions, df_researchers = limparLinhasInvalidas(institutions, researchers)
 
 def mostrarAvisos(avisos):
     for aviso in avisos:
@@ -29,17 +30,7 @@ DATA_PATH = "./data"
 def carregar_dados():
     return pd.read_excel(DATA_PATH + "/institutions-and-researchers.xlsx")
 
-@st.cache_data
-def carregar_instituiçoes():
-    return pd.read_csv(DATA_PATH + "/institutions.csv")
-
-@st.cache_data
-def carregar_researchers():
-    return pd.read_csv(DATA_PATH + "/researchers.csv")
-
 df = carregar_dados()
-df_institutions = carregar_instituiçoes()
-df_researchers = carregar_researchers()
 
 st.title("Globe GenAI 🌎️")
 mostrarAvisos(avisos)
