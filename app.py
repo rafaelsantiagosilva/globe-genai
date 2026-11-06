@@ -3,10 +3,11 @@ import json
 import folium
 import streamlit as st
 from streamlit_folium import st_folium
-from validacao import carregarDados, montarAvisos
+from validacao import carregarDados, montarAvisos, limparLinhasInvalidas
 
 institutions, researchers = carregarDados()
 avisos = montarAvisos(institutions, researchers)
+df_institutions, df_researchers = limparLinhasInvalidas(institutions, researchers)
 
 def mostrarAvisos(avisos):
     for aviso in avisos:
@@ -29,17 +30,7 @@ DATA_PATH = "./data"
 def carregar_dados():
     return pd.read_excel(DATA_PATH + "/institutions-and-researchers.xlsx")
 
-@st.cache_data
-def carregar_instituiçoes():
-    return pd.read_csv(DATA_PATH + "/institutions.csv")
-
-@st.cache_data
-def carregar_researchers():
-    return pd.read_csv(DATA_PATH + "/researchers.csv")
-
 df = carregar_dados()
-df_institutions = carregar_instituiçoes()
-df_researchers = carregar_researchers()
 
 st.title("Globe GenAI 🌎️")
 mostrarAvisos(avisos)
@@ -137,14 +128,17 @@ def carregar_mapa():
 
     if st_data and st_data["last_object_clicked"]:
         ponto = st_data["last_object_clicked"]
+        clique = (ponto["lat"], ponto["lng"])
 
-        selecionada = df_institutions[
-            (df_institutions["lat"] == ponto["lat"]) &
-            (df_institutions["lon"] == ponto["lng"])
-        ]
+        if st.session_state.get("ultimo_clique_tratado") != clique:
+            st.session_state["ultimo_clique_tratado"] = clique
+            selecionada = df_institutions[
+                (df_institutions["lat"] == ponto["lat"]) &
+                (df_institutions["lon"] == ponto["lng"])
+            ]
 
-        if not selecionada.empty:
-            mostrar_instituicao(selecionada.iloc[0])
+            if not selecionada.empty:
+                mostrar_instituicao(selecionada.iloc[0])
 
     return st_data
 
