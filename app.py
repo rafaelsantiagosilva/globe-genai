@@ -5,6 +5,17 @@ import streamlit as st
 from streamlit_folium import st_folium
 from validacao import carregarDados, montarAvisos, limparLinhasInvalidas
 
+st.markdown(
+    """
+    <style>
+    .block-container {
+        max-width: 1100px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 institutions, researchers = carregarDados()
 avisos = montarAvisos(institutions, researchers)
 df_institutions, df_researchers = limparLinhasInvalidas(institutions, researchers)
@@ -122,7 +133,7 @@ def carregar_mapa():
     st_data = st_folium(
         mapa,
         use_container_width=True,
-        height=500,
+        height=780,
         key="mapa_instituicoes",
     )
 
