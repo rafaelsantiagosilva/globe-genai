@@ -56,14 +56,15 @@ def mostrar_instituicao(instituicao):
         st.dataframe(
             researchers[["Research Name"]].rename(
                 columns={
-                    "Research Name": "Nome do pesquisador"
+                    "Researcher Name": "Nome do pesquisador"
                 }
             ),
             use_container_width=True,
             hide_index=True,
         )
 
-def carregar_mapa():
+def construir_mapa(df_institutions):
+
     with open("continents.geojson", "r", encoding="utf-8") as f:
         geojson_data = json.load(f)
 
@@ -74,13 +75,17 @@ def carregar_mapa():
         min_zoom=2,
     )
 
-    mapa.get_root().header.add_child( # type: ignore
-        folium.Element("<style>.leaflet-container { background: #0099bb; }</style>")
+    mapa.get_root().header.add_child(
+        folium.Element(
+            "<style>.leaflet-container { background: #0099bb; }</style>"
+        )
     )
 
     COR_PADRAO = "#cccccc"
 
+    # Continentes
     for feature in geojson_data["features"]:
+
         props = feature.get("properties", {})
         nome = props.get("CONTINENT", "?")
         cor = props.get("fill") or COR_PADRAO
@@ -88,13 +93,16 @@ def carregar_mapa():
         folium.GeoJson(
             feature,
             name=nome,
-            style_function=lambda _f, cor=cor: {  
+            style_function=lambda _f, cor=cor: {
                 "fillColor": cor,
                 "fillOpacity": 0.75,
                 "color": "#333333",
                 "weight": 1.5,
             },
-            highlight_function=lambda _f: {"fillOpacity": 0.95, "weight": 2.5},
+            highlight_function=lambda _f: {
+                "fillOpacity": 0.95,
+                "weight": 2.5,
+            },
             tooltip=folium.GeoJsonTooltip(
                 fields=["CONTINENT"],
                 aliases=["Continente:"],
@@ -102,8 +110,9 @@ def carregar_mapa():
             ),
         ).add_to(mapa)
 
-
+    # Marcadores das instituições
     for _, linha in df_institutions.iterrows():
+
         if pd.isna(linha["lat"]) or pd.isna(linha["lon"]):
             continue
 
@@ -113,25 +122,35 @@ def carregar_mapa():
             icon=folium.Icon(
                 color="darkblue",
                 icon="map-marker",
-                prefix="fa"
+                prefix="fa",
             ),
         ).add_to(mapa)
 
-    #st_data = st_folium(mapa, use_container_width=True, height=500)
+    return mapa
+
+
+def exibir_mapa():
+
+    mapa = construir_mapa(df_institutions)
 
     st_data = st_folium(
         mapa,
         use_container_width=True,
         height=500,
         key="mapa_instituicoes",
+        returned_objects=["last_object_clicked"],
     )
 
+    # Verifica se um marcador foi clicado
     if st_data and st_data["last_object_clicked"]:
+
         ponto = st_data["last_object_clicked"]
         clique = (ponto["lat"], ponto["lng"])
 
         if st.session_state.get("ultimo_clique_tratado") != clique:
+
             st.session_state["ultimo_clique_tratado"] = clique
+
             selecionada = df_institutions[
                 (df_institutions["lat"] == ponto["lat"]) &
                 (df_institutions["lon"] == ponto["lng"])
@@ -140,9 +159,7 @@ def carregar_mapa():
             if not selecionada.empty:
                 mostrar_instituicao(selecionada.iloc[0])
 
-    return st_data
-
-carregar_mapa()
+exibir_mapa()
 
 st.dataframe(df)
 
