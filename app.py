@@ -80,10 +80,14 @@ def construir_mapa(df_institutions):
         geojson_data = json.load(f)
 
     mapa = folium.Map(
-        location=[-22.815313, -47.06914],
-        zoom_start=3,
+        location=[10, 0],
+        zoom_start=2,
+        min_zoom=2,                  # volta a trava fixa
         tiles=None,
-        min_zoom=2,
+        max_bounds=True,
+        min_lat=-85, max_lat=85,
+        min_lon=-180, max_lon=180,
+        max_bounds_viscosity=1.0,
     )
 
     mapa.get_root().header.add_child(
@@ -136,7 +140,7 @@ def construir_mapa(df_institutions):
                 prefix="fa",
             ),
         ).add_to(mapa)
-
+    
     return mapa
 
 
