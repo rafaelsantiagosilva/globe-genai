@@ -81,8 +81,8 @@ def construir_mapa(df_institutions):
 
     mapa = folium.Map(
         location=[10, 0],
-        zoom_start=2,
-        min_zoom=2,                  # volta a trava fixa
+        zoom_start=2,                # zoom inicial que tenta abranger a maior parte dos continentes sem borda
+        min_zoom=2,                  # zoom minimo possivel
         tiles=None,
         max_bounds=True,
         min_lat=-85, max_lat=85,
