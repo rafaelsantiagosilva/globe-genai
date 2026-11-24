@@ -5,6 +5,17 @@ import streamlit as st
 from streamlit_folium import st_folium
 from validacao import carregarDados, montarAvisos, limparLinhasInvalidas
 
+st.markdown(
+    """
+    <style>
+    .block-container {
+        max-width: 1100px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 institutions, researchers = carregarDados()
 avisos = montarAvisos(institutions, researchers)
 df_institutions, df_researchers = limparLinhasInvalidas(institutions, researchers)
@@ -69,10 +80,14 @@ def construir_mapa(df_institutions):
         geojson_data = json.load(f)
 
     mapa = folium.Map(
-        location=[-22.815313, -47.06914],
-        zoom_start=3,
+        location=[10, 0],
+        zoom_start=2,                # zoom inicial que tenta abranger a maior parte dos continentes sem borda
+        min_zoom=2,                  # zoom minimo possivel
         tiles=None,
-        min_zoom=2,
+        max_bounds=True,
+        min_lat=-85, max_lat=85,
+        min_lon=-180, max_lon=180,
+        max_bounds_viscosity=1.0,
     )
 
     mapa.get_root().header.add_child(
@@ -125,7 +140,7 @@ def construir_mapa(df_institutions):
                 prefix="fa",
             ),
         ).add_to(mapa)
-
+    
     return mapa
 
 
@@ -136,7 +151,7 @@ def exibir_mapa():
     st_data = st_folium(
         mapa,
         use_container_width=True,
-        height=500,
+        height=780,
         key="mapa_instituicoes",
         returned_objects=["last_object_clicked"],
     )
