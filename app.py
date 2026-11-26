@@ -8,15 +8,12 @@ from streamlit_folium import st_folium
 from validacao import carregarDados, montarAvisos, limparLinhasInvalidas
 from countries_in_continents import identificar_continente
 
-st.markdown(
+st.html(
     """
     <style>
-    .block-container {
-        max-width: 1100px;
-    }
+    .block-container { max-width: 1100px; }
     </style>
-    """,
-    unsafe_allow_html=True,
+    """
 )
 
 # Carregamento dos dados
