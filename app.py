@@ -8,15 +8,12 @@ from streamlit_folium import st_folium
 from validacao import carregarDados, montarAvisos, limparLinhasInvalidas
 from countries_in_continents import identificar_continente
 
-st.markdown(
+st.html(
     """
     <style>
-    .block-container {
-        max-width: 1100px;
-    }
+    .block-container { max-width: 1100px; }
     </style>
-    """,
-    unsafe_allow_html=True,
+    """
 )
 
 # Carregamento dos dados
@@ -283,7 +280,93 @@ def construir_mapa(df_institutions):
 
     return mapa
 
-# Mostrando o mapa na tela
+#menu retratil
+if "pais_menu" not in st.session_state:
+    st.session_state["pais_menu"] = None
+ 
+def abrir_pais(pais):
+    st.session_state["pais_menu"] = pais
+ 
+def voltar():
+    st.session_state["pais_menu"] = None
+ 
+@st.fragment
+def menu_regioes(df_inst, df_pesq):
+    df_pi = df_pesq.merge(df_inst, on="institution_id", how="inner")
+ 
+    por_pais = df_pi.groupby("Country")["researcher_id"].nunique()
+    paises_menu = sorted(df_inst["Country"].dropna().unique())
+ 
+    if st.session_state["pais_menu"] not in paises_menu:
+        st.session_state["pais_menu"] = None
+ 
+    pais_aberto = st.session_state["pais_menu"]
+ 
+    with st.container(horizontal_alignment="right"):
+        with st.popover("Mais informações"):
+ 
+            if pais_aberto is None:
+                st.subheader("All regions")
+                st.caption(
+                    f"{df_pi['researcher_id'].nunique()} researchers · "
+                    f"{df_inst['institution_id'].nunique()} institutions · "
+                    f"{df_inst['Country'].nunique()} countries"
+                )
+ 
+                with st.container(height=420, border=False):
+                    for pais in paises_menu:
+                        st.button(
+                            f"{pais} · {int(por_pais.get(pais, 0))}",
+                            key=f"btn_{pais}",
+                            on_click=abrir_pais,
+                            args=(pais,),
+                            width="stretch",
+                        )
+ 
+            else:
+                st.button(
+                    "← All regions",
+                    key="btn_voltar",
+                    on_click=voltar,
+                )
+ 
+                inst_pais = df_inst[df_inst["Country"] == pais_aberto]
+                pesq_pais = df_pi[df_pi["Country"] == pais_aberto]
+                continente = ", ".join(
+                    sorted(inst_pais["Continent"].dropna().unique())
+                )
+ 
+                st.subheader(pais_aberto)
+                st.caption(
+                    f"{pesq_pais['researcher_id'].nunique()} researchers · "
+                    f"{inst_pais['institution_id'].nunique()} institutions · "
+                    f"{continente or '-'}"
+                )
+ 
+                with st.container(height=420, border=False):
+                    for _, inst in inst_pais.sort_values(
+                        "University / Institute"
+                    ).iterrows():
+                        nomes = (
+                            pesq_pais[
+                                pesq_pais["institution_id"]
+                                == inst["institution_id"]
+                            ]["Research Name"]
+                            .dropna()
+                            .astype(str)
+                            .str.strip()
+                            .sort_values()
+                            .tolist()
+                        )
+                        st.markdown(f"**{inst['University / Institute']}**")
+                        if nomes:
+                            st.markdown("\n".join(f"- {nome}" for nome in nomes))
+                        else:
+                            st.caption("Não foram encontradas informações.")
+ 
+ 
+menu_regioes(df_filtrado, df_researchers)
+        
 def exibir_mapa(df_filtrado):
     # Identifica os marcadores para verificar
     # se o mapa precisa ser reconstruído
