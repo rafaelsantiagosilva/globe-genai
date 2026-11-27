@@ -1,0 +1,251 @@
+﻿institution_id,nome,status,fonte,qid,label_encontrado,dist_km,url,arquivo
+0,"University of Campinas (UNICAMP), Brazil",ok,icone_do_site,Q2060678,University of Campinas,1,https://www.unicamp.br/wp-content/uploads/sites/33/2024/03/cropped-logo_unicamp_512-180x180.png,0.png
+1,"Federal University of Southern Bahia (UFSB), Brazil",ok,icone_do_site,Q10387834,Federal University of Southern Bahia,309,https://www.ufsb.edu.br/templates/padraogoverno01/favicon.ico,1.ico
+2,Paulista University (UNIP) - Brazil,ok,wikidata_logo,Q10387857,Paulista University,53,https://commons.wikimedia.org/wiki/Special:FilePath/UNIP_-_Universidade_Paulista.png?width=512,2.png
+3,Federal University of Maranhão (UFMA) - Brazil,ok,icone_do_site,Q5440477,Federal University of Maranhão,4,https://portalpadrao.ufma.br/++theme++padrao/++theme++padrao/favicons/apple-touch-icon.png,3.png
+4,Federal University of Rio Grande do Sul (UFRGS),ok,wikidata_logo,Q766447,Federal University of Rio Grande do Sul,0,https://commons.wikimedia.org/wiki/Special:FilePath/Ufrgs.svg?width=512,4.png
+5,Federal Institute of Espírito Santo (IFES) – Campus Serra,ok,wikidata_logo,Q1208213,International Fellowship of Evangelical Students,,https://commons.wikimedia.org/wiki/Special:FilePath/Ifes_logo.png?width=512,5.png
+6,"State Secretariat for Education, Sport and Leisure (SEEC)",ok,icone_do_site,Q24940557,Sociedad Española de Estudios Clásicos,,http://www.estudiosclasicos.org/favicon.ico,6.ico
+7,"O.P. Jindal Global University (JGU), India",ok,icone_do_site,Q7072154,O.P. Jindal Global (Institution of Eminence Deemed to be University),0,https://jgu.edu.in/front/assets/img/favicon.ico,7.ico
+8,"Multimedia University (MMU), Malaysia",ok,wikidata_logo,Q1421182,Multimedia University,103,https://commons.wikimedia.org/wiki/Special:FilePath/Multimedia_University_secondary_logo_2020.png?width=512,8.png
+9,"Universiti Teknologi, Malaysia",ok,icone_do_site,Q24401,University of Technology Malaysia,9,https://www.utm.my/wp-content/uploads/2020/08/cropped-UTMsiteicon-180x180.png,9.png
+10,University of Reading Malaysia,ok,icone_do_site,Q94673966,University of Reading Malaysia,0,https://www.reading.edu.my/apple-touch-icon.png,10.png
+11,University of Puthisastra - Cambodia,ok,icone_do_site,Q7896182,University of Puthisastra and Norton University,,https://www.puthisastra.edu.kh/wp-content/themes/university-education/images/favicon.ico,11.ico
+12,"National University of Battambang, Cambodia",ok,icone_do_site,Q132803482,National University of Battambang,,https://www.google.com/s2/favicons?domain=nubb.edu.kh&sz=256,12.png
+13,Shimonoseki City University - Japan,ok,icone_do_site,Q909784,Shimonoseki City University,0,http://www.shimonoseki-cu.ac.jp/wp-content/themes/shimonoseki-ac/favicon/apple-touch-icon.png,13.png
+14,Sendai University - Japan,ok,icone_do_site,Q7450188,Sendai University,0,https://www.sendaidaigaku.jp/favicon.ico,14.ico
+15,Cebu Technological University (CTU) - Philippines,ok,wikidata_logo,Q5055820,Cebu Technological University,2,https://commons.wikimedia.org/wiki/Special:FilePath/Cebu_Technological_University_Logo.png?width=512,15.png
+16,The Chinese University of Hong Kong (CUHK) - Hong Kong,ok,icone_do_site,Q15570,The Chinese University of Hong Kong,0,https://cuhk.edu.hk/favicon.ico,16.ico
+17,The Hong Kong University of Science and Technology (HKUST) - Hong Kong,ok,icone_do_site,Q1333303,Hong Kong University of Science and Technology,0,https://hkust.edu.hk/themes/custom/hkust/favicon.ico,17.ico
+18,University of Alcalá (UAH) - Spain,ok,wikidata_logo,Q1243904,University of Alcalá,0,https://commons.wikimedia.org/wiki/Special:FilePath/Universidad_de_Alcal%C3%A1_%282021%29_acr%C3%B3nimo.png?width=512,18.png
+19,University of Córdoba - Spain,ok,wikidata_logo,Q734010,University of Cordoba,0,https://commons.wikimedia.org/wiki/Special:FilePath/Logounicordoba.svg?width=512,19.png
+20,CESAG Centro de Enseñanza Superior Alberta Giménez - Spain,nao_encontrada,,,,,,
+21,University of Porto - Portugal,ok,wikidata_logo,Q1422903,University of Porto,0,https://commons.wikimedia.org/wiki/Special:FilePath/Logoup.jpg?width=512,21.jpg
+22,Instituto Politécnico de Bragança,ok,icone_do_site,Q10302635,Polytechnic Institute of Bragança,1,https://unipb.pt/favicon.ico,22.ico
+23,Campus de Santa Apolónia - Portugal,nao_encontrada,,,,,,
+24,Instituto Politécnico de Leiria - Portugal,ok,icone_do_site,Q7227031,University of Leiria and Oeste,0,https://www.ipleiria.pt/wp-content/themes/wp-theme--ipleiria/assets/img/favicon/favicon.svg,24.svg
+25,University of Foggia - Italy,ok,icone_do_site,Q617446,University of Foggia,0,https://www.google.com/s2/favicons?domain=www.unifg.it&sz=256,25.jpg
+26,University IUL Florence Italy,nao_encontrada,,,,,,
+27,"West University of Timisoara, Romania",ok,icone_do_site,Q837657,West University of Timișoara,0,https://uvt.ro/wp-content/uploads/2026/07/cropped-Asset-7-1-180x180.png,27.png
+28,"Open University of Cyprus, Cyprus",ok,icone_do_site,Q1473115,Open University of Cyprus,0,https://www.ouc.ac.cy/templates/ja_teline_v/favicon.ico,28.ico
+29,University College Dublin - Ireland,ok,icone_do_site,Q1068258,University College Dublin,0,https://www.google.com/s2/favicons?domain=www.ucd.ie&sz=256,29.png
+30,"Siirt University, Turkey",ok,icone_do_site,Q7513486,Siirt University,0,https://www.siirt.edu.tr/images/myitem/siu_logo.png,30.png
+31,Bartin University - Turkey,ok,icone_do_site,Q6089196,Bartın University,,https://www.google.com/s2/favicons?domain=www.bartin.edu.tr&sz=256,31.png
+32,Ağrı İbrahim Çeçen University - Turkey,ok,icone_do_site,Q3674354,Ağrı İbrahim Çeçen University,,https://www.agri.edu.tr/img/favicon.png,32.png
+33,University of Calgary - Canada,ok,icone_do_site,Q1067471,University of Calgary,0,https://www.ucalgary.ca/themes/ucalgary/ucws_theme/apple-touch-icon.png,33.png
+34,University of Windsor - Canada,ok,wikidata_logo,Q2065769,University of Windsor,0,https://commons.wikimedia.org/wiki/Special:FilePath/Windsor_univ_ca_textlogo.png?width=512,34.png
+35,University North - University Center Varazdin - Croatia,sem_logo,,Q57978195,University North,42,,
+36,University of Southampton - England,ok,wikidata_logo,Q76473,University of Southampton,0,https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Southampton_Logo.svg?width=512,36.png
+37,University of Glasgow - Scotland,ok,icone_do_site,Q192775,University of Glasgow,0,https://www.gla.ac.uk/3t4/img/hd_hi.png,37.png
+38,University of Chester - England,ok,icone_do_site,Q762243,University of Chester,0,https://www.chester.ac.uk/media/website/site-assets/images/favicon/apple-touch-icon.1539d21f.png,38.png
+39,The Pennsylvania State University (Penn State Erie) - United States,ok,wikidata_logo,Q739627,Pennsylvania State University,10,https://commons.wikimedia.org/wiki/Special:FilePath/Penn_state_university_textlogo.png?width=512,39.png
+40,Boise State University (BSU) - United States,ok,wikidata_logo,Q891082,Boise State University,0,https://commons.wikimedia.org/wiki/Special:FilePath/Boise_State_University_logo.svg?width=512,40.png
+41,"Elon University North Carolina, United States.",nao_encontrada,,,,,,
+42,James Hope University,ok,icone_do_site,Q107724156,James Hope University,8,https://jhu.edu.ng/wp-content/uploads/2023/11/cropped-The-Logo-180x180.png,42.png
+43,"Lagos State University (LASU), Nigeria",ok,icone_do_site,Q849611,Lagos State University,0,https://lasu.edu.ng/home/img/lasu_logo.jpg,43.jpg
+44,University of Calabar - Nigeria,ok,icone_do_site,Q3509289,University of Calabar,0,https://www.google.com/s2/favicons?domain=www.unical.edu.ng&sz=256,44.png
+45,University of Education - Ghana,ok,icone_do_site,Q1557172,"University of Education, Winneba",1,https://www.uew.edu.gh/themes/custom/pinaman/favicon.ico,45.ico
+46,Adventist University of Africa - Kenya,ok,icone_do_site,Q3551516,Adventist University of Africa,1,https://www.aua.ac.ke/wp-content/uploads/2022/02/aua-tsp-logo-200x200.png,46.png
+47,Daystar University Kenya - Kenya,nao_encontrada,,,,,,
+48,"Busitema University, Uganda",ok,icone_do_site,Q5001978,Busitema University,1,https://www.busitema.ac.ug/sites/default/files/favicon_0.png,48.png
+49,"Makerere University Business School, Uganda",ok,icone_do_site,Q6739286,Makerere University Business School,22,https://mubs.ac.ug/wp-content/uploads/2025/07/cropped-makerere-university-business-school-mubs-seeklogo-300x300.png,49.png
+50,Human Sciences Research Council (HSRC) - South Africa,ok,icone_do_site,Q11020151,Human Sciences Research Council,0,https://hsrc.ac.za/wp-content/uploads/2023/07/favicon.gif,50.gif
+51,University of the Southern Caribbean - Trinidad and Tobago,ok,icone_do_site,Q367398,University of the Southern Caribbean,0,http://usc.edu.tt/favicon.ico,51.png
+52,"National University of Science and Technology, Zimbabwe",ok,icone_do_site,Q6979267,"National University of Science and Technology, Zimbabwe",366,https://www.google.com/s2/favicons?domain=www.nust.ac.zw&sz=256,52.png
+53,"Chinhoyi University of Technology, Zimbabwe",ok,icone_do_site,Q5101057,Chinhoyi University of Technology,0,https://www.cut.ac.zw/favicon.ico,53.ico
+54,"Africa University, Zimbabwe",ok,wikidata_logo,Q383939,Africa University,0,https://commons.wikimedia.org/wiki/Special:FilePath/Africa_University_Entrance.jpg?width=512,54.jpg
+55,"University of Technology, Jamaica",ok,icone_do_site,Q1584459,University of Technology,0,https://www.utech.edu.jm/storage/2023/12/cropped-favicon-180x180.webp,55.webp
+56,University of the West Indies,ok,wikidata_logo,Q746153,University of the West Indies,0,https://commons.wikimedia.org/wiki/Special:FilePath/UWILogotype.jpg?width=512,56.jpg
+57,"The University of the West Indies, SALISES Mona - Jamaica",ok,wikidata_logo,Q746153,University of the West Indies,0,https://commons.wikimedia.org/wiki/Special:FilePath/UWILogotype.jpg?width=512,57.jpg
+58,University of Namibia - Namibia,ok,wikidata_logo,Q220226,University of Namibia,0,https://commons.wikimedia.org/wiki/Special:FilePath/Logo_UNAM_Namibia.png?width=512,58.png
+59,"The Open University of Tanzania, Tanzania",ok,wikidata_logo,Q7755195,The Open University of Tanzania,0,https://commons.wikimedia.org/wiki/Special:FilePath/Out_Logo.jpg?width=512,59.jpg
+60,"Macau Polytechnic University (MPU), Macau",ok,wikidata_logo,Q105338085,Federal Public Prosecutor's Office,,https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_do_Minist%C3%A9rio_P%C3%BAblico_da_Uni%C3%A3o.png?width=512,60.png
+61,"Stamford International University, Thailand",ok,icone_do_site,Q2329481,Stamford International University,0,https://www.stamford.edu/wp-content/uploads/2025/07/cropped-icon-180x180.png,61.png
+62,Tel Aviv University - Israel,ok,wikidata_logo,Q319239,Tel Aviv University,0,https://commons.wikimedia.org/wiki/Special:FilePath/Tel_Aviv_university_logo_-_Hebrew.png?width=512,62.png
+63,Al-Qasemi Academic College of Education - Israel,ok,icone_do_site,Q12236066,Al-Qasemi Academic College,1,https://www.google.com/s2/favicons?domain=www.qsm.ac.il&sz=256,63.png
+64,University of Malta - Malta,ok,wikidata_logo,Q426045,University of Malta,0,https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Malta_Coat_of_Arms.svg?width=512,64.png
+65,Universidad San Ignacio de Loyola - Peru,ok,icone_do_site,Q7894314,Universidad San Ignacio de Loyola,0,https://d31935m4eumln1.cloudfront.net/wp-content/uploads/2025/07/10202044/usil_favicon-300x300.webp,65.webp
+66,"Universidad Nacional de San Agustín de Arequipa, Perú",ok,wikidata_logo,Q5576631,National University of St Augustin of Arequipa,0,https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_UNSA.png?width=512,66.png
+67,Universidad Mayor de San Andrés - Bolivia,sem_logo,,Q42821694,Universidad Mayor de San Andrés,0,,
+68,"Universidad Mayor, Real y Pontificia de San Francisco Xavier - Bolivia",ok,wikidata_logo,Q930279,Royal and Pontifical Higher University of San Francisco Xavier of Chuquisaca,0,https://commons.wikimedia.org/wiki/Special:FilePath/EMBLEMA-USFX.jpg?width=512,68.jpg
+69,Pontificia Universidad Católica de Valparaíso (PUCV) - Chile,ok,icone_do_site,Q1284408,Pontifical Catholic University of Valparaíso,0,http://www.pucv.cl/favicon.ico,69.ico
+70,Universidad Privada Boliviana (UPB) - Bolivia,ok,wikidata_logo,Q7896145,University of Pittsburgh at Bradford,,https://commons.wikimedia.org/wiki/Special:FilePath/Pittsburgh_bradford_univ_simplelogo.svg?width=512,70.png
+71,Universidad Católica Boliviana San Pablo - Bolivia,ok,icone_do_site,Q2495675,Universidad Católica Boliviana San Pablo,1,https://www.ucb.edu.bo/wp-content/uploads/2024/12/cropped-UCB-Ereccion-Canonica_Escudo-01-copia-180x180.webp,71.webp
+72,Universidad de Concepción - Chile,ok,icone_do_site,Q199948,University of Concepción,0,https://www.udec.cl/app/themes/udec-theme-main/favicon.ico,72.ico
+73,"Universidad Santiago de Cali, Colombia",ok,wikidata_logo,Q5575968,University of Santiago de Cali,0,https://commons.wikimedia.org/wiki/Special:FilePath/Logo-USC.png?width=512,73.png
+74,CESMAG University - Colombia,sem_logo,,Q5917112,CESMAG University,,,
+75,National University of Colombia,ok,wikidata_logo,Q1150419,National University of Colombia,1,https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_de_la_Universidad_Nacional_de_Colombia.svg?width=512,75.png
+76,Faculty of Information and Communication (FIC) - Uruguay,sem_logo,,Q17232471,School of Information and Communication,,,
+77,Universidad Autónoma de Guadalajara- Mexico,nao_encontrada,,,,,,
+78,Universidad de Carabobo - Venezuela,ok,wikidata_logo,Q367429,University of Carabobo,2,https://commons.wikimedia.org/wiki/Special:FilePath/UC_logo.png?width=512,78.png
+79,National Autonomous University of Mexico (UNAM) - Mexico,ok,wikidata_logo,Q222738,National Autonomous University of Mexico,0,https://commons.wikimedia.org/wiki/Special:FilePath/Escudo-UNAM-escalable.svg?width=512,79.png
+80,"Instituto Tecnológico de Sonora, ITSON - Mexico",ok,icone_do_site,Q7562219,Sonora Institute of Technology,4,https://www.google.com/s2/favicons?domain=www.itson.mx&sz=256,80.png
+81,Universidad Panamericana,ok,wikidata_logo,Q947259,Panamerican University,40,https://commons.wikimedia.org/wiki/Special:FilePath/Universidad_Panamericana_Logo_Dorado.jpg?width=512,81.jpg
+82,"National Polytechnic Institute (IPN), Mexico",ok,icone_do_site,Q1539696,National Polytechnic Institute,17,https://www.ipn.mx/assets/files/main/img/template/favicon.ico,82.ico
+83,Russian Presidential Academy of National Economy and Public Administration (RANEPA),ok,icone_do_site,Q2822458,Russian Presidential Academy of National Economy and Public Administration,0,https://www.ranepa.ru/favicon.ico,83.ico
+84,Pavlov First Saint Petersburg State Medical University,nao_encontrada,,,,,,
+85,Ural Federal University - Russia,ok,wikidata_logo,Q1506552,Ural Federal University,2,https://commons.wikimedia.org/wiki/Special:FilePath/Ural_Federal_University_%28eng%29.jpg?width=512,85.jpg
+86,Federal State Budgetary Educational Institution of Higher Education,ok,wikidata_logo,Q114712246,Ufa University of Science and Technology,,https://commons.wikimedia.org/wiki/Special:FilePath/Uustt.png?width=512,86.png
+87,"Jiangxi Tellhow Animation Vocational College, China",nao_encontrada,,,,,,
+88,Taizhou Vocational & Technical College - China,sem_logo,,Q30264935,Taizhou Vocational & Technical College,0,,
+89,"School of Foreign Languages, Jiaying University, Meizhou, Mainland China (People’s Republic of China)",sem_logo,,Q6191964,Jiaying University,0,,
+90,An-Najah National University - Palestine,ok,icone_do_site,Q2096138,An-Najah National University,2,https://www-cdn.najah.edu/static/img/icons/apple-touch-icon-152x152-precomposed.png,90.png
+91,Peninsula of Santa Elena State University (UPSE) - Ecuador,nao_encontrada,,,,,,
+92,Yemyung Graduate University - South Korea,ok,icone_do_site,Q8046611,Yemyung Graduate University,,http://www.ygu.ac.kr/favicon.ico,92.ico
+93,Dankook University - South Korea,ok,icone_do_site,Q491127,Dankook University,0,https://www.dankook.ac.kr/documents/20121/10849313/favicon.ico/fe6f5a12-0a9f-f9e0-1a6c-6bc081bae0c9,93.ico
+94,Mohamed I University (MIU) - Morocco,ok,icone_do_site,Q3551445,Mohamed I University,0,https://www.google.com/s2/favicons?domain=www.ump.ma&sz=256,94.png
+95,Universitas Negeri Padang (UNP) - Indonesia,ok,wikidata_logo,Q7603634,Padang State University,8,https://commons.wikimedia.org/wiki/Special:FilePath/Padang_State_University_logo.jpg?width=512,95.jpg
+96,University of Halu Oleo - Indonesia,nao_encontrada,,,,,,
+97,"Universitas Muhammadiyah Malang, Indonesia",ok,icone_do_site,Q47927,Muhammadiyah University of Malang,1,https://www.google.com/s2/favicons?domain=www.umm.ac.id&sz=256,97.png
+98,University of Medical Sciences of Santiago de Cuba - Cuba,nao_encontrada,,,,,,
+99,University of Bergen - Norway,ok,icone_do_site,Q204457,University of Bergen,0,https://www.uib.no/core/misc/favicon.ico,99.ico
+100,University of the Saint Thomas Aquinas Fraternity (UFASTA) - Argentina,nao_encontrada,,,,,,
+101,University of Sri Jayewardenepura - Sri Lanka,ok,icone_do_site,Q720958,University of Sri Jayewardenepura,0,https://www.sjp.ac.lk/wp-content/uploads/2016/06/cropped-usjp-logo-fav-300x300.jpg,101.jpg
+102,Universidad de las Regiones Autónomas de la Costa Caribe Nicaragüense (URACCAN) - Nicarágua,ok,icone_do_site,Q7896692,University of the Autonomous Regions of the Nicaraguan Caribbean Coast,,https://www.uraccan.edu.ni/wp-content/uploads/2025/01/URACCAN-Logo-web2_1-e1738521192588.png,102.png
+103,Al-Zaytoonah University - Jordan,ok,icone_do_site,Q4506012,Al-Zaytoonah University of Jordan,0,https://www.google.com/s2/favicons?domain=www.zuj.edu.jo&sz=256,103.png
+104,"Higher Colleges of Technology - Dubai, United Arab Emirates",ok,icone_do_site,Q5758041,Higher Colleges of Technology,125,https://www.google.com/s2/favicons?domain=www.hct.ac.ae&sz=256,104.png
+105,FOM University of Applied Sciences Essen - Germany,nao_encontrada,,,,,,
+106,Université de Lorraine (ENSAIA) - France,ok,wikidata_logo,Q4173330,University of Lorraine,5,https://commons.wikimedia.org/wiki/Special:FilePath/Logo-universite-de-lorraine.svg?width=512,106.png
+107,University of Rwanda - Rwanda,ok,icone_do_site,Q19888178,University of Rwanda,90,https://ur.ac.rw/images/urlogo1.png,107.png
+108,Center for Research and Development of the Higher Institute of Educational Sciences of Bié – Angola,nao_encontrada,,,,,,
+109,Kathmandu University,ok,icone_do_site,Q6376965,Kathmandu University,1,https://wimsapi.ku.edu.np/public_views/ku_home_theme/images/fav.png,109.png
+110,School of Education - Nepal,sem_logo,,Q627006,normal school,,,
+111,Universidad Nacional de Asunción (UNA) - Paraguay,ok,wikidata_logo,Q2039033,Universidad Nacional de Asunción,0,https://commons.wikimedia.org/wiki/Special:FilePath/Univ-Nacional-Asuncion-Logo.jpg?width=512,111.jpg
+112,"Federal Institute of Pará (IFPA), Brazil",ok,wikidata_logo,Q10302499,Federal Institute of Pará,,https://commons.wikimedia.org/wiki/Special:FilePath/Instituto_Federal_do_Par%C3%A1_-_Marca_Vertical_2015.svg?width=512,112.png
+113,"Universidade Joaquim Chissano, Mozambique",sem_logo,,Q20968825,Joaquim Chissano University,,,
+114,Universidade Eduardo Mondlane - Mozambique,ok,icone_do_site,Q890884,Eduardo Mondlane University,1,https://uem.mz/wp-content/uploads/2022/10/cropped-flaicon1-180x180.png,114.png
+115,Universidade Pedagógica de Maputo (UP-Maputo) - Mozambique,ok,icone_do_site,Q290662,Maputo University,0,https://www.google.com/s2/favicons?domain=www.up.ac.mz&sz=256,115.png
+116,"Stockholm University, Sweden",ok,icone_do_site,Q221645,Stockholm University,0,https://www.su.se/apple-touch-icon.png,116.png
+117,École Supérieure d'Infotronique d'Haïti (ESIH),ok,icone_do_site,Q5644709,École supérieure d'infotronique d'Haïti,,https://images.squarespace-cdn.com/content/v1/604f4f7bdad32a12b24382e6/d7e80806-9897-46cb-bd24-8150960903ce/favicon.ico?format=100w,117.webp
+118,"University of the South Pacific (USP), Fiji",ok,icone_do_site,Q1062121,University of the South Pacific,0,https://www.usp.ac.fj/favicon.ico,118.png
+119,Cheikh Anta Diop University of Dakar - Senegal,ok,icone_do_site,Q671363,Université Cheikh Anta Diop,0,https://www.ucad.sn/sites/default/files/favicon-16x16.png,119.png
+120,Somali National University,ok,icone_do_site,Q278455,Somali National University,0,https://snu.edu.so/wp-content/uploads/2020/06/cropped-icon-180x180.png,120.png
+121,Universidade de Santiago - Cabo Verde,ok,icone_do_site,Q47254981,Universidade de Santiago,1,https://new.us.edu.cv/wp-content/uploads/2025/06/cropped-LOGUS_CORES_2-07-180x180.png,121.png
+122,"University of Buea, Cameroon",ok,icone_do_site,Q652308,University of Buea,0,https://www.ubuea.cm/wp-content/uploads/2024/03/cropped-UB_Logo_2-180x180.png,122.png
+123,"University of Bamenda, Cameroon",sem_logo,,Q17028026,University of Bamenda,6,,
+124,National University of Samoa - Samoa,ok,icone_do_site,Q2666843,National University of Samoa,0,https://nus.edu.ws/wp-content/themes/educat/favicon.ico,124.ico
+125,Anton de Kom University of Suriname (AdeKUS) - Suriname,ok,icone_do_site,Q1975617,Anton de Kom University of Suriname,0,https://www.uvs.edu/wp-content/uploads/2017/11/cropped-adek-favicon-180x180.png,125.png
+126,University of Guyana - Guyana,ok,icone_do_site,Q1502975,University of Guyana,0,https://www.google.com/s2/favicons?domain=www.uog.edu.gy&sz=256,126.png
+127,University of Mauritius,sem_logo,,Q1097479,University of Mauritius,0,,
+128,InnovEd-UniQ - Quisqueya University (uniQ) - Haiti,ok,icone_do_site,Q16682060,Quisqueya University,0,https://www.uniq.edu.ht/home/images/logo.png,128.png
+129,The University of the West Indies - St. Agustine Campus - Trinidad and Tobago,ok,icone_do_site,Q33527388,University of the West Indies St. Augustine Campus,0,http://sta.uwi.edu/favicon.ico,129.ico
+130,Pontificia Universidad Católica de Puerto Rico,ok,icone_do_site,Q1342151,Pontifical Catholic University of Puerto Rico,0,https://www.pucpr.edu/wp-content/uploads/2025/10/android-chrome-192x192-1.png,130.png
+131,African Union University - AUU International,sem_logo,,Q140948768,African Union University,,,
+132,African Union University - AUU International,sem_logo,,Q140948768,African Union University,,,
+133,African Union University - AUU International,sem_logo,,Q140948768,African Union University,,,
+134,Mesopotamian Academy of Arts and Sciences,nao_encontrada,,,,,,
+135,The Antartic institute of Canada - Canada,nao_encontrada,,,,,,
+136,African Union University - AUU International,sem_logo,,Q140948768,African Union University,,,
+137,National University of Lesotho.,ok,icone_do_site,Q1410332,National University of Lesotho,0,https://nul.ls/wp-content/uploads/2023/03/removal.ai_78367b3d-471a-4f57-b6b4-0e85508fd14b.png,137.png
+138,South East European University,ok,icone_do_site,Q2304477,South East European University,3,https://www.seeu.edu.mk/favicon.ico,138.ico
+139,EKA University of Applied Sciences,ok,icone_do_site,Q16355880,EKA University of Applied Sciences,,https://www.augstskola.lv/img/ico/apple-touch-icon-152x152.png,139.png
+140,Ain Shams University - Faculty of Medicine,ok,wikidata_logo,Q2723670,Ain Shams University,0,https://commons.wikimedia.org/wiki/Special:FilePath/Ibrahim_Basha_University_Logo_01.jpg?width=512,140.jpg
+141,"University ""Fan S. Noli"" Korçë Albania",nao_encontrada,,,,,,
+142,The University of the West Indies,ok,icone_do_site,Q7896784,University of the West Indies Press,,https://dhjhkxawhe8q4.cloudfront.net/uwi-press-wp/wp-content/uploads/2023/10/17142254/cropped-cropped-logo-burgundy-180x180.png,142.png
+143,University of Ljubljana,ok,icone_do_site,Q1377,University of Ljubljana,0,https://www.uni-lj.si/_resources/themes/uni/images/favicon/apple-touch-icon.png?m=1709547504,143.png
+144,Université Alassane Ouattara - Côte d'Ivoire,ok,icone_do_site,Q3551369,Université Alassane Ouattara,0,https://i0.wp.com/univ-ao.edu.ci/wp-content/uploads/2021/02/cropped-logo_cool_green-1.png?fit=180%2C180&#038;ssl=1,144.png
+145,Université de Lomé - Togo,ok,icone_do_site,Q3551618,University of Lomé,0,https://www.google.com/s2/favicons?domain=univ-lome.tg&sz=256,145.png
+146,Varna University of Management - Bulgaria,ok,wikidata_logo,Q12286392,Varna University of Management,0,https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B5%D0%BD.jpg?width=512,146.jpg
+147,Armenian State University of Economics (ASUE),ok,wikidata_logo,Q1990472,Armenian State University of Economics,0,https://commons.wikimedia.org/wiki/Special:FilePath/%D5%80%D5%8A%D5%8F%D5%80.JPG?width=512,147.jpg
+148,"Bahauddin Zakariya University, Multan, Pakistan",ok,icone_do_site,Q4842499,Bahauddin Zakariya University,1,http://www.bzu.edu.pk/favicon.ico,148.ico
+149,"University of Okara, Punjab, Pakistan",sem_logo,,Q30593798,University of Okara,0,,
+150,"University of the Punjab, Pakistan",ok,icone_do_site,Q1549932,University of the Punjab,24,https://pu.edu.pk/temp1/img/favicon.png,150.png
+151,"Marien Ngouabi University, Brazzaville - Congo",ok,icone_do_site,Q3551438,Marien Ngouabi University,0,https://www.google.com/s2/favicons?domain=www.umng.cg&sz=256,151.png
+152,University Oran 1 – Ahmed Ben Bella - Algeria,nao_encontrada,,,,,,
+153,Al-Farabi Kazakh National University - Kazakhstan,ok,icone_do_site,Q427677,Al-Farabi Kazakh National University,,https://farabi.university/front/assets/img/icons/logonew1.png,153.png
+154,Kandahar University - Afghanistan,sem_logo,,Q3752161,Kandahar University,1,,
+155,Mulungushi University - Zambia,ok,icone_do_site,Q3643633,Mulungushi University,0,https://www.mu.ac.zm/static/assets/images/favicon.png,155.png
+156,L'École Supérieure des Communications de Tunis - Tunisia,nao_encontrada,,,,,,
+157,University of Carthage - Tunisia,ok,icone_do_site,Q852223,Carthage University,0,https://ucar.rnu.tn/wp-content/uploads/fbrfg/apple-touch-icon.png,157.png
+158,Clarence Fitzroy Bryant College - Saint Kitts and Nevis,nao_encontrada,,,,,,
+159,"College of Marshall Islands, Majuro, Marshall Islands",nao_encontrada,,,,,,
+160,University of Seychelles - Seychelles,ok,icone_do_site,Q7896291,University of Seychelles,0,https://unisey.ac.sc/wp-content/uploads/2023/05/UniSey_logo-High-Resolution-2-e1685101268753.png,160.png
+161,Rumbek University of Science and Technology - South Sudan,nao_encontrada,,,,,,
+162,Université André Salifou,ok,icone_do_site,Q3551691,André Salifou University of Zinder,3,https://uas.edu.ne/favicon.ico,162.png
+163,All Saints University School of Medicine (ASUSM) - Dominica,sem_logo,,Q17989119,All Saints University School of Medicine,,,
+164,Hellenic Open University (H.O.U.) - Greece,ok,icone_do_site,Q3035299,Hellenic Open University,0,https://www.eap.gr/wp-content/uploads/2020/10/favicon.ico,164.ico
+165,National and Kapodistrian University of Athens - Greece,ok,icone_do_site,Q547867,National and Kapodistrian University of Athens,0,https://www.uoa.gr/typo3conf/ext/uoa_website/Resources/Public/Images/favicon.png,165.png
+166,Jimma University (JU) - Ethiopia,ok,icone_do_site,Q6199299,Jimma University,3,https://www.google.com/s2/favicons?domain=www.ju.edu.et&sz=256,166.png
+167,Bahrain Polytechnic - Bahrain,ok,icone_do_site,Q4842757,Bahrain Polytechnic,0,https://www.polytechnic.bh/wp-content/uploads/polytechnic/images/favicon.png,167.png
+168,Universidad Tecnológica de Panamá (UTP) - Panamá,ok,icone_do_site,Q3034637,Technological University of Panama,1,https://utp.ac.pa/favicon.ico,168.ico
+169,Nanyang Technological University (NTU),ok,icone_do_site,Q721064,Nanyang Technological University,0,https://www.ntu.edu.sg/ResourcePackages/NTU/assets/images/favicon.png,169.png
+170,National University of Singapore (NUS),ok,icone_do_site,Q738236,National University of Singapore,0,https://www.google.com/s2/favicons?domain=nus.edu.sg&sz=256,170.png
+171,RMIT University - Vietnam,ok,wikidata_logo,Q7277005,RMIT University Vietnam,4,https://commons.wikimedia.org/wiki/Special:FilePath/RMIT_University_Logo.svg?width=512,171.png
+172,"Department of Public Health, The Copperbelt University, Zambia",ok,icone_do_site,Q339314,Copperbelt University,0,https://www.cbu.ac.zm/images/cbu.webp,172.webp
+173,"Department of Public Health, University of Buea, Cameroon",ok,icone_do_site,Q652308,University of Buea,1,https://www.ubuea.cm/wp-content/uploads/2024/03/cropped-UB_Logo_2-180x180.png,173.png
+174,"Michael Okpara University of Agriculture, Umudike, Nigeria",ok,icone_do_site,Q6833225,Michael Okpara University of Agriculture Umudike,0,https://mouau.edu.ng/wp-content/uploads/2021/09/cropped-mouau_logo_fav-180x180.png,174.png
+175,"Department of Textile and Clothing Science, Mukuba University",ok,icone_do_site,Q18378066,Mukuba University,0,https://mukuba.edu.zm/wp-content/uploads/2020/11/cropped-MukubaLogo-1-1.png,175.png
+176,"Afe Babalola University, Nigeria",ok,icone_do_site,Q4688832,Afe Babalola University,0,https://www.abuad.edu.ng/wp-content/uploads/2024/08/cropped-abuad_logo_1-180x180.png,176.png
+177,"Department of Nutrition, Dietetics and Food Sciences at the University of Zimbabwe, Zimbabwe",nao_encontrada,,,,,,
+178,"Facultad de Arquitectura, Universidad de San Carlos de Guatemala (USAC)",ok,wikidata_logo,Q607331,Universidad de San Carlos de Guatemala,1,https://commons.wikimedia.org/wiki/Special:FilePath/Usac_logo.png?width=512,178.png
+179,"Faculty of Sciences and Technologies - Bujumbura International University, Burundi",ok,icone_do_site,Q100523649,Bujumbura International University,0,https://biu.bi/wp-content/uploads/2025/12/cropped-BIU-Logo-Favicon-180x180.png,179.png
+180,Afro-American University of Central Africa (AAUCA),sem_logo,,Q122142167,Afro-American University of Central Africa,0,,
+181,Samtse College of Education - Royal University of Bhutan,ok,icone_do_site,Q2640138,Royal University of Bhutan,,https://www.rub.edu.bt/wp-content/uploads/2026/01/AW_RUB_Logo-Design_Primary-Logo_White-Background_RGB_Finalised.svg,181.svg
+182,University of Belize - Belize,ok,icone_do_site,Q7895116,University of Belize,4,https://ub.edu.bz/wp-content/uploads/2025/03/UB-Logo-transparent.png,182.png
+183,Galen University - Belize,ok,icone_do_site,Q1707030,Galen University,,https://www.galen.edu.bz/wp-content/uploads/2021/03/Galen_ColorLogo_New2018_GreenRipple-1.png,183.png
+184,"Faculty of Health Sciences, Nursing Department, Beirut Arab University, Beirut, Lebanon.",ok,wikidata_logo,Q2778441,Beirut Arab University,,https://commons.wikimedia.org/wiki/Special:FilePath/Beirut_Arab_University_logo.jpg?width=512,184.jpg
+185,University of Sarajevo - Bosnia and Herzegovina,ok,icone_do_site,Q572286,University of Sarajevo,1,https://www.unsa.ba/themes/unsa/favicon/apple-touch-icon.png,185.png
+186,University of Mostar - Bosnia and Herzegovina,ok,icone_do_site,Q2303102,University of Mostar,1,https://www.google.com/s2/favicons?domain=sve-mo.ba&sz=256,186.png
+187,Organisation for Economic Co-operation and Development (OECD),ok,wikidata_logo,Q41550,Organization for Economic Cooperation and Development,0,https://commons.wikimedia.org/wiki/Special:FilePath/OECD_logo.svg?width=512,187.png
+188,University of North Texas - USA,ok,wikidata_logo,Q860527,University of North Texas,1,https://commons.wikimedia.org/wiki/Special:FilePath/University_of_North_Texas_wordmark.svg?width=512,188.png
+189,The United Methodist University (UMU),ok,icone_do_site,Q16902330,United Methodist University,0,https://umu.edu.lr/wp-content/uploads/2025/05/cropped-site-icon-1-180x180.png,189.png
+190,University of Eswatini,ok,icone_do_site,Q1570483,University of Eswatini,16,https://www.google.com/s2/favicons?domain=www.uneswa.ac.sz&sz=256,190.png
+191,University of Technology Sydney (UTS),ok,icone_do_site,Q1145731,University of Technology Sydney,0,https://www.uts.edu.au/favicon.ico,191.ico
+192,Belarusian State University of Informatics and Radioelectronics,ok,icone_do_site,Q816145,Belarusian State University of Informatics and Radioelectronics,,http://www.bsuir.by/favicon.ico,192.ico
+193,Belarusian State University of Foreign Languages,ok,icone_do_site,Q2992066,Belarusian State University of Foreign Languages,0,https://www.google.com/s2/favicons?domain=bsufl.by&sz=256,193.png
+194,Centenary College of Louisiana in Shreveport - USA,nao_encontrada,,,,,,
+195,"California State University, Fresno - USA",ok,wikidata_logo,Q815352,California State University,367,https://commons.wikimedia.org/wiki/Special:FilePath/California_State_University_logo.svg?width=512,195.png
+196,AI Research Center (IIIA),ok,icone_do_site,Q90571086,Artificial Intelligence Research Institute,0,https://www.iiia.csic.es/static/favicon.ico,196.ico
+197,Spanish National Research Council (CSIC),ok,wikidata_logo,Q1024362,Spanish National Research Council,501,https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_del_CSIC.svg?width=512,197.png
+198,University of Banja Luka,ok,icone_do_site,Q1587312,University of Banja Luka,0,https://unibl.org/favicon.ico,198.ico
+199,L'Institut de Recherche en Informatique de Toulouse (IRIT) - France,ok,wikidata_logo,Q3152088,Toulouse Institute of Computer Science Research,0,https://commons.wikimedia.org/wiki/Special:FilePath/Logo_IRIT_2018.png?width=512,199.png
+200,Université de Strasbourg - IUT R. Schuman,ok,wikidata_logo,Q157575,University of Strasbourg,3,https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A9_de_Strasbourg.svg?width=512,200.png
+201,University of Toronto - Scarborough (Canada),ok,icone_do_site,Q180865,University of Toronto,0,https://www.google.com/s2/favicons?domain=www.utoronto.ca&sz=256,201.png
+202,"Wageningen University & Research (WUR), Wageningen, the Netherlands",ok,icone_do_site,Q422208,Wageningen University & Research,0,https://www.wur.nl/wurds/favicon/WUR_favicon_180x180px_2025.png,202.png
+203,Artificial Intelligence Innovation Centre (AIICentre) - Trinidad & Tobago,nao_encontrada,,,,,,
+204,University of Patras - Greece,ok,icone_do_site,Q1462246,University of Patras,0,https://www.upatras.gr/wp-content/uploads/cropped-fav-180x180.png,204.png
+205,"Department of Textile and Clothing Science, Mukuba University",ok,icone_do_site,Q18378066,Mukuba University,0,https://mukuba.edu.zm/wp-content/uploads/2020/11/cropped-MukubaLogo-1-1.png,205.png
+206,Fakultas Keguruan dan Ilmu Pendidikan - Universitas PGRI Adi Buana Surabaya – Indonesia,nao_encontrada,,,,,,
+207,"Department of Nursing, Mental Health Hospital, Qassim Health Cluster, Qassim, Buraydah",ok,icone_do_site,Q101023520,Department of Nursing,,https://www.biola.edu/favicon.ico,207.ico
+208,"Medical Surgical Department, College of Nursing, Imam Mohammed Ibn Saud Islamic University, Riyadh, Saudi Arabia",nao_encontrada,,,,,,
+209,"Faculty of Nursing, King Abdulaziz University, Jeddah, Saudi Arabia",ok,icone_do_site,Q1795928,King Abdulaziz University,2,http://www.kau.edu.sa/favicon.ico,209.ico
+210,"Department of Community, Psychiatric, and Mental Health Nursing, College of Nursing, Qassim University",ok,wikidata_logo,Q7267062,Qassim University,0,https://commons.wikimedia.org/wiki/Special:FilePath/Qassim_University_logo.svg?width=512,210.png
+211,"Department of Community, Psychiatric and Mental Health Nursing, College of Nursing, Qassim University",ok,wikidata_logo,Q7267062,Qassim University,0,https://commons.wikimedia.org/wiki/Special:FilePath/Qassim_University_logo.svg?width=512,211.png
+212,"Sulaiman AlRajhi University, College of Nursing, Department of Family and Community Health in Nursing, AlBukayriyah, Qassim",nao_encontrada,,,,,,
+213,"Department of Medical-Surgical Nursing, College of Nursing, Princess Nourah bint Abdulrahman University",sem_logo,,Q4118886,Princess Nora bint Abdul Rahman University,0,,
+214,"Department of Family and Community Medicine, College of Medicine, Qassim University, Buraidah",ok,wikidata_logo,Q7267062,Qassim University,0,https://commons.wikimedia.org/wiki/Special:FilePath/Qassim_University_logo.svg?width=512,214.png
+215,"Department of Public Health, College of Applied Medical Sciences, Qassim University",ok,wikidata_logo,Q7267062,Qassim University,0,https://commons.wikimedia.org/wiki/Special:FilePath/Qassim_University_logo.svg?width=512,215.png
+216,"Dublin City University, Dublin, Ireland",ok,wikidata_logo,Q1202897,Dublin City University,0,https://commons.wikimedia.org/wiki/Special:FilePath/Dublin_City_University_Logo.svg?width=512,216.png
+217,"Department of Emergency, Nursing Affairs, King Saud University Medical City, Riyadh City",nao_encontrada,,,,,,
+218,"Faculty of Health Science, Department of Nursing Science, University of Pretoria",ok,icone_do_site,Q604444,University of Pretoria,0,https://www.google.com/s2/favicons?domain=www.up.ac.za&sz=256,218.png
+219,"Adult Health Nursing, RAK College of Nursing, RAK Medical & Health Sciences University, Ras Al Khaimah, UAE.",ok,icone_do_site,Q7294680,RAK Medical and Health Sciences University,0,https://www.rakmhsu.ac.ae/assets/img/favicon/apple-touch-icon.png?v=1785364574,219.png
+220,Ataturk University,ok,icone_do_site,Q753778,Atatürk University,0,http://atauni.edu.tr/wp-content/uploads/2025/01/cropped-icon-1-180x180.png,220.png
+221,"Emergency Department, Sivas Numune Hospital",nao_encontrada,,,,,,
+222,"Yozgat Bozok University. Assistant Professor, Department of Surgical Nursing.",nao_encontrada,,,,,,
+223,"Department of Mental Health, Faculty of Health Sciences, University of Malta",ok,wikidata_logo,Q426045,University of Malta,0,https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Malta_Coat_of_Arms.svg?width=512,223.png
+224,"Zarqa University, Jordan",ok,icone_do_site,Q8066876,Zarqa University,0,https://www.google.com/s2/favicons?domain=zu.edu.jo&sz=256,224.png
+225,University of Southampton Delhi,ok,icone_do_site,Q141801768,University of Southampton Delhi,,https://www.delhi.southampton.ac.uk/wp-content/uploads/2026/11/Favicon-300x300.png,225.png
+226,Jindal School of Liberal Arts & Humanities - O. P. Jindal Global University,ok,icone_do_site,Q7072154,O.P. Jindal Global (Institution of Eminence Deemed to be University),0,https://jgu.edu.in/front/assets/img/favicon.ico,226.ico
+227,Jindal Institute of Behavioural Sciences (JIBS) - O.P. Jindal Global University.,ok,icone_do_site,Q7072154,O.P. Jindal Global (Institution of Eminence Deemed to be University),0,https://jgu.edu.in/front/assets/img/favicon.ico,227.ico
+228,University of Baguio,ok,wikidata_logo,Q7895103,University of Baguio,0,https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Baguio_textlogo.png?width=512,228.png
+229,An-Najah National University,ok,icone_do_site,Q2096138,An-Najah National University,2,https://www-cdn.najah.edu/static/img/icons/apple-touch-icon-152x152-precomposed.png,229.png
+230,Chitkara Business School,nao_encontrada,,,,,,
+231,"Chitkara University, Punjab",ok,icone_do_site,Q5102255,"Chitkara University, Punjab",0,https://www.chitkara.edu.in/wp-content/uploads/2025/12/cropped-CULogo192_-180x180.png,231.png
+232,Quiros Adelaide University,nao_encontrada,,,,,,
+233,University of Birmingham,ok,icone_do_site,Q223429,University of Birmingham,0,https://www.birmingham.ac.uk/_s1t51Q_1ec5bc30-c25a-40dd-b868-a8f016e0da87/static/img/icons/apple-touch-icon.png,233.png
+234,"The University of New England, Sydney, NSW, Australia",ok,wikidata_logo,Q1814435,University of New England,375,https://commons.wikimedia.org/wiki/Special:FilePath/University_of_New_England%2C_Maine_logo.png?width=512,234.png
+235,"Excelsia University College, Sydney, Austrália",ok,icone_do_site,Q7983936,Excelsia University College,15,https://excelsia.edu.au/wp-content/uploads/cropped-fev-logo-180x180.png,235.png
+236,"Republica Fund of Health Insurance, Belgrade, Serbia",nao_encontrada,,,,,,
+237,"Academy of Applied Studies Novi Sad, Department of Novi Sad School of Business, Serbia",nao_encontrada,,,,,,
+238,"University of Novi Sad, Faculty of Education in Sombor, Serbia",ok,icone_do_site,Q1263535,University of Novi Sad,0,https://www.google.com/s2/favicons?domain=www.uns.ac.rs&sz=256,238.png
+239,"University of Novi Sad, Faculty of Sciences, Serbia",ok,icone_do_site,Q1263535,University of Novi Sad,0,https://www.uns.ac.rs/templates/eximium/favicon.ico,239.ico
+240,"Fundación Universitaria del Area Andina, Colombia",sem_logo,,Q25411265,Fundación Universitaria del Área Andina,15,,
+241,"UNIVERSITY OF CAMARINES NORTE, Philippines",sem_logo,,Q5024963,University of Camarines Norte,0,,
+242,"Mariners’ Polytechnic Colleges Foundation of Canaman, Philippines",ok,icone_do_site,Q141553690,Mariners' Polytechnic Colleges Foundation of Canaman,,https://marinerscanaman.edu.ph/wp-content/uploads/2026/09/cropped-MPCF-Canaman-Logo-180x180.png,242.png
+243,"Jose Rizal Universtity, Philippines",nao_encontrada,,,,,,
+244,Ritsumeikan Asia Pacific University (APU),ok,icone_do_site,Q1133142,Ritsumeikan Asia Pacific University,0,https://www.apu.ac.jp/home/apple-touch-icon-180x180.png,244.png
+245,"STKIP PGRI Trenggalek, Indonesia",ok,icone_do_site,Q109913201,STKIP PGRI Trenggalek,,https://www.google.com/s2/favicons?domain=stkippgritrenggalek.ac.id&sz=256,245.png
+246,"Czech University of Life Sciences Prague, Czech Republic",ok,wikidata_logo,Q1460141,Czech University of Life Sciences Prague,,https://commons.wikimedia.org/wiki/Special:FilePath/Logo_czu_cz.png?width=512,246.png
+247,"Mindanao State University - Iligan Institute of Technology, the Philippines",sem_logo,,Q1641536,Mindanao State University,27,,
+248,"Universitas Islam Sultan Agung, Indonesia",ok,icone_do_site,Q12523351,Universitas Islam Sultan Agung,0,https://unissula.ac.id/storage/unissula.ico,248.ico
+249,Universitas Airlangga - Indonesia,ok,wikidata_logo,Q1494353,Airlangga University,0,https://commons.wikimedia.org/wiki/Special:FilePath/Logo-Branding-UNAIR-biru.png?width=512,249.png
